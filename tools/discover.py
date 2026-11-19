@@ -10,7 +10,7 @@ out = []
 for ch in CHANNELS:
     url = f"https://www.twitch.tv/{ch}/clips?filter=clips&range=24hr"
     try:
-        r = subprocess.run(["yt-dlp", "--flat-playlist", "-J", "--playlist-end", "15", url],
+        r = subprocess.run(["yt-dlp", "--flat-playlist", "-J", "--playlist-end", "40", url],
                            capture_output=True, text=True, timeout=180)
         data = json.loads(r.stdout or "{}")
     except Exception as e:  # keep going for the other channels
