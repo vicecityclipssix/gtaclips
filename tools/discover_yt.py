@@ -8,11 +8,14 @@ video has one, otherwise its first chapter after the intro.
 import json
 import subprocess
 import time
+import urllib.parse
 
 QUERIES = json.load(open("discover/yt_queries.json"))
 seen, cands = set(), []
 for q in QUERIES:
-    r = subprocess.run(["yt-dlp", "--flat-playlist", "-J", f"ytsearchdate25:{q}"],
+    url = ("https://www.youtube.com/results?search_query=" + urllib.parse.quote_plus(q)
+           + "&sp=EgIIAw%253D%253D")  # filter: uploaded this week
+    r = subprocess.run(["yt-dlp", "--flat-playlist", "-J", "--playlist-end", "25", url],
                        capture_output=True, text=True, timeout=180)
     try:
         entries = json.loads(r.stdout).get("entries") or []
