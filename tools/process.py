@@ -18,8 +18,14 @@ for jf in sorted(glob.glob("jobs/*.json")):
             continue
         src = f"src/{j['id']}.mp4"
         try:
-            subprocess.run(["yt-dlp", "-f", "best[ext=mp4]/best", "--merge-output-format", "mp4",
-                            "-o", src, "--force-overwrites", j["url"]], check=True, timeout=600)
+            dl = ["yt-dlp", "-f", "bv*[height<=1080][ext=mp4]+ba[ext=m4a]/best[ext=mp4]/best",
+                  "--merge-output-format", "mp4", "-o", src, "--force-overwrites"]
+            trim = float(j.get("trim", 0))
+            if trim > 0:  # long video: only download the window we need
+                dl += ["--download-sections", f"*{trim}-{trim + float(j.get('dur', 30)) + 1}",
+                       "--force-keyframes-at-cuts"]
+                j = dict(j, trim=0)
+            subprocess.run(dl + [j["url"]], check=True, timeout=600)
             layers = f"src/layers_{j['id']}"
             subprocess.run(["python3", "tools/make_overlay.py", "--caption", j["caption"],
                             "--emoji", j.get("emoji", ""), "--credit", j.get("credit", ""),
