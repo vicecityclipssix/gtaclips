@@ -38,10 +38,13 @@ for c in cands[:30]:
     r = subprocess.run(["yt-dlp", "-J", "--skip-download", url],
                        capture_output=True, text=True, timeout=120)
     try:
-        info = json.loads(r.stdout)
+        info = json.loads(r.stdout) or {}
     except Exception:
+        info = {}
+    if not info:
         print("info failed:", c["id"], r.stderr[-200:])
-        continue
+        info = {"title": c["title"], "channel": c["channel"], "view_count": c["views"],
+                "duration": c["duration"]}
     dur = info.get("duration") or 0
     start = 0.0
     hm = info.get("heatmap") or []
