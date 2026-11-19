@@ -12,9 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          curl -sL https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz | tar xJ
-          sudo cp ffmpeg-*-static/ffmpeg ffmpeg-*-static/ffprobe /usr/local/bin/ && rm -rf ffmpeg-*-static
-          ffmpeg -version | head -1 || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          set +e
+          (curl -sfL --max-time 120 https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz | tar xJ && sudo cp ffmpeg-*-static/ffmpeg ffmpeg-*-static/ffprobe /usr/local/bin/) \
+            || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          rm -rf ffmpeg-*-static; ffmpeg -version | head -1
       - run: pip install -U yt-dlp pillow
       - run: python3 tools/process.py
       - run: |
