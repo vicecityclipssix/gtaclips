@@ -1,0 +1,1 @@
+Command '['yt-dlp', '-f', 'bv*[height<=1080][ext=mp4]+ba[ext=m4a]/best[ext=mp4]/best', '--merge-output-format', 'mp4', '-o', 'src/I02_ig_reel.mp4', '--force-overwrites', 'https://www.instagram.com/reel/Df6QcGzCyJW/']' returned non-zero exit status 1.
