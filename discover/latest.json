@@ -1,10 +1,10 @@
 {
- "updated": 1795593398,
+ "updated": 1795597251,
  "clips": [
   {
    "channel": "kaicenat",
    "title": "lol",
-   "views": 7820,
+   "views": 8473,
    "duration": 19.0,
    "url": "https://www.twitch.tv/kaicenat/clip/MistyFastChickpeaBatChest-1l50Cnz_nbghKxmh",
    "created": 1795552660
@@ -12,7 +12,7 @@
   {
    "channel": "kaicenat",
    "title": "ron and marlon?",
-   "views": 2082,
+   "views": 2125,
    "duration": 40.0,
    "url": "https://www.twitch.tv/kaicenat/clip/BitterStylishLemurSSSsss-bthG6IGi-VdPRf1u",
    "created": 1795559250
@@ -20,7 +20,7 @@
   {
    "channel": "ohnepixel",
    "title": "bodysuits",
-   "views": 1389,
+   "views": 1439,
    "duration": 33.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/FineHelplessSwordFloof-ZljlVQd7GopiyUDf",
    "created": 1795522204
@@ -28,7 +28,7 @@
   {
    "channel": "ohnepixel",
    "title": "s1mple",
-   "views": 1304,
+   "views": 1419,
    "duration": 39.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/UgliestBombasticLyrebirdGrammarKing-dnKxm2XupKOuVp3Z",
    "created": 1795527214
@@ -36,7 +36,7 @@
   {
    "channel": "stableronaldo",
    "title": "JasonTheWeen Has A Convo With Ron About His Car! \ud83d\ude02",
-   "views": 1165,
+   "views": 1265,
    "duration": 43.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/FantasticAthleticClamKappaClaus-Tu0_XClPa4HrYBQP",
    "created": 1795556489
@@ -44,31 +44,15 @@
   {
    "channel": "ohnepixel",
    "title": "caught... its not about her hair",
-   "views": 923,
+   "views": 943,
    "duration": 11.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/VictoriousFineMochaPipeHype-CLBGE7MJJVbPRXRI",
    "created": 1795530653
   },
   {
-   "channel": "ishowspeed",
-   "title": "mellsher \u043f\u0440\u0438\u0448\u0451\u043b \u043d\u0430 \u0441\u0442\u0440\u0438\u043c \u043a \u0441\u043f\u0438\u0434\u043e\u0437\u0443",
-   "views": 721,
-   "duration": 23.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/ProudBigPuffinDatSheffy-wLO63vExUgyVcidV",
-   "created": 1795541915
-  },
-  {
-   "channel": "lacy",
-   "title": "lacy react to ron selling burger",
-   "views": 683,
-   "duration": 36.0,
-   "url": "https://www.twitch.tv/lacy/clip/EasySuperKoalaDxAbomb-SavdsJwXON8Sw3DR",
-   "created": 1795557606
-  },
-  {
    "channel": "stableronaldo",
    "title": "box",
-   "views": 643,
+   "views": 790,
    "duration": 5.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/SplendidBlazingDotterelRickroll-SDFFhTpfu5fv-hrX",
    "created": 1795566015
@@ -76,15 +60,31 @@
   {
    "channel": "lacy",
    "title": "a",
-   "views": 638,
+   "views": 760,
    "duration": 30.0,
    "url": "https://www.twitch.tv/lacy/clip/DreamyIncredulousButterMVGame-wWdh6s_4x5SiQXTq",
    "created": 1795568817
   },
   {
+   "channel": "ishowspeed",
+   "title": "mellsher \u043f\u0440\u0438\u0448\u0451\u043b \u043d\u0430 \u0441\u0442\u0440\u0438\u043c \u043a \u0441\u043f\u0438\u0434\u043e\u0437\u0443",
+   "views": 756,
+   "duration": 23.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/ProudBigPuffinDatSheffy-wLO63vExUgyVcidV",
+   "created": 1795541915
+  },
+  {
+   "channel": "lacy",
+   "title": "lacy react to ron selling burger",
+   "views": 733,
+   "duration": 36.0,
+   "url": "https://www.twitch.tv/lacy/clip/EasySuperKoalaDxAbomb-SavdsJwXON8Sw3DR",
+   "created": 1795557606
+  },
+  {
    "channel": "ohnepixel",
    "title": "mac-10-for-sale",
-   "views": 579,
+   "views": 636,
    "duration": 60.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/AdventurousDeafEmuDansGame-Z7ILCuiIPMCuEbX8",
    "created": 1795530176
@@ -92,39 +92,47 @@
   {
    "channel": "missmikkaa",
    "title": "Mikkaa jumpscared!",
-   "views": 572,
+   "views": 622,
    "duration": 19.0,
    "url": "https://www.twitch.tv/missmikkaa/clip/GoodDoubtfulEchidnaRiPepperonis-UgSmJQBGeUFobRRo",
    "created": 1795551695
   },
   {
-   "channel": "ohnepixel",
-   "title": "nickeh30",
-   "views": 414,
-   "duration": 43.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/CheerfulConsiderateWaterCopyThis-Jkd9AEO0Xbre29I-",
-   "created": 1795528139
-  },
-  {
    "channel": "hutchmf",
    "title": "WHIFFLE",
-   "views": 408,
+   "views": 463,
    "duration": 60.0,
    "url": "https://www.twitch.tv/hutchmf/clip/DeliciousPlayfulTrollYouWHY-WbmZTC6YKNepJHhB",
    "created": 1795543925
   },
   {
+   "channel": "ohnepixel",
+   "title": "nickeh30",
+   "views": 460,
+   "duration": 43.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/CheerfulConsiderateWaterCopyThis-Jkd9AEO0Xbre29I-",
+   "created": 1795528139
+  },
+  {
    "channel": "kaicenat",
    "title": "speed x kay",
-   "views": 384,
+   "views": 400,
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/TiredGoldenWerewolfStrawBeary-6jFm_HT9SxNzv_EV",
    "created": 1795543510
   },
   {
+   "channel": "lacy",
+   "title": "a",
+   "views": 369,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/lacy/clip/PlayfulGrossSeahorseTF2John-EZbhjfzq3pFbPBYy",
+   "created": 1795570354
+  },
+  {
    "channel": "ohnepixel",
    "title": "ohnepixel is hammered",
-   "views": 354,
+   "views": 360,
    "duration": 8.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/ToughCuriousKeyboardBCWarrior-3bjqWEg3UnDs1kBI",
    "created": 1795541520
@@ -132,90 +140,90 @@
   {
    "channel": "stableronaldo",
    "title": "Stupid little kid",
-   "views": 316,
+   "views": 336,
    "duration": 13.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/HonestHelpfulYakCharlietheUnicorn-U50b-4pO-LawuF5E",
    "created": 1795566213
   },
   {
-   "channel": "hutchmf",
-   "title": "Caught with wet hand!!!",
-   "views": 313,
-   "duration": 56.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/ResilientTenuousWalletPMSTwin-4xHiLhvcbSDiVaTw",
-   "created": 1795537828
-  },
-  {
-   "channel": "lacy",
-   "title": "a",
-   "views": 309,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/lacy/clip/PlayfulGrossSeahorseTF2John-EZbhjfzq3pFbPBYy",
-   "created": 1795570354
-  },
-  {
-   "channel": "kaicenat",
-   "title": "shut up \ud83d\ude2d",
-   "views": 288,
-   "duration": 31.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/PowerfulLitigiousPancakeLitFam-Iqa8P1Bfy2yGQvNw",
-   "created": 1795544373
-  },
-  {
    "channel": "missmikkaa",
    "title": "Tips for an unhealthy relationship",
-   "views": 284,
+   "views": 324,
    "duration": 10.0,
    "url": "https://www.twitch.tv/missmikkaa/clip/HealthyEntertainingWrenDBstyle-PAgyvpNu0B5Meukv",
    "created": 1795535917
   },
   {
-   "channel": "ohnepixel",
-   "title": "gta-irl-kick-dog-brain",
-   "views": 262,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/HyperSmokyDogOSfrog-HWumFiNbefi0T_sN",
-   "created": 1795528339
+   "channel": "hutchmf",
+   "title": "Caught with wet hand!!!",
+   "views": 320,
+   "duration": 56.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/ResilientTenuousWalletPMSTwin-4xHiLhvcbSDiVaTw",
+   "created": 1795537828
+  },
+  {
+   "channel": "kaicenat",
+   "title": "shut up \ud83d\ude2d",
+   "views": 306,
+   "duration": 31.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/PowerfulLitigiousPancakeLitFam-Iqa8P1Bfy2yGQvNw",
+   "created": 1795544373
   },
   {
    "channel": "ohnepixel",
    "title": "locked in",
-   "views": 261,
+   "views": 297,
    "duration": 38.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/FitBlitheDonkeyBrokeBack-lrhv-en2MLsbUAQc",
    "created": 1795559035
   },
   {
-   "channel": "nickmercs",
-   "title": "Nicks having too much fun",
-   "views": 257,
-   "duration": 20.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/FantasticDoubtfulPanImGlitch-zsLZ7REAlrKbSVyw",
-   "created": 1795559001
-  },
-  {
-   "channel": "ishowspeed",
-   "title": "Speed steals a car in GTA VI",
-   "views": 230,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/FairHelpfulPistachioAllenHuhu-5JAr3GB-5If6Whey",
-   "created": 1795544339
+   "channel": "ohnepixel",
+   "title": "gta-irl-kick-dog-brain",
+   "views": 296,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/HyperSmokyDogOSfrog-HWumFiNbefi0T_sN",
+   "created": 1795528339
   },
   {
    "channel": "lacy",
    "title": "a",
-   "views": 229,
+   "views": 269,
    "duration": 32.0,
    "url": "https://www.twitch.tv/lacy/clip/TrustworthyBenevolentReindeerMikeHogu-YPbJj_4DH8VCRAH8",
    "created": 1795575431
   },
   {
+   "channel": "nickmercs",
+   "title": "Nicks having too much fun",
+   "views": 263,
+   "duration": 20.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/FantasticDoubtfulPanImGlitch-zsLZ7REAlrKbSVyw",
+   "created": 1795559001
+  },
+  {
    "channel": "ohnepixel",
    "title": "krillion-guess-country-central-america",
-   "views": 225,
+   "views": 250,
    "duration": 36.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/RoundHotAlpacaGivePLZ-oqb6bLdpDUPmbBdd",
    "created": 1795528914
+  },
+  {
+   "channel": "ishowspeed",
+   "title": "Speed steals a car in GTA VI",
+   "views": 248,
+   "duration": 29.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/FairHelpfulPistachioAllenHuhu-5JAr3GB-5If6Whey",
+   "created": 1795544339
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "lacy and mar duo",
+   "views": 222,
+   "duration": 20.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/MistyOutstandingMinkMingLee-QPxSvtWC6fpxosQ1",
+   "created": 1795558036
   },
   {
    "channel": "ohnepixel",
@@ -228,79 +236,71 @@
   {
    "channel": "kaicenat",
    "title": "\ud83d\ude02",
-   "views": 205,
+   "views": 215,
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/CulturedFlirtyPepperEleGiggle-UVrnRpC87ubTj_qS",
    "created": 1795543621
   },
   {
-   "channel": "stableronaldo",
-   "title": "lacy and mar duo",
-   "views": 205,
-   "duration": 20.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/MistyOutstandingMinkMingLee-QPxSvtWC6fpxosQ1",
-   "created": 1795558036
-  },
-  {
-   "channel": "kaicenat",
-   "title": "kkkkkkk",
-   "views": 201,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/VainHilariousWallabyCclamChamp-iX7auG-nIhQ_TD4D",
-   "created": 1795532788
-  },
-  {
    "channel": "illojuan",
    "title": "el pelo",
-   "views": 200,
+   "views": 212,
    "duration": 24.0,
    "url": "https://www.twitch.tv/illojuan/clip/FitVictoriousCaribouMcaT-HcAeGW0hiByqEI-i",
    "created": 1795536470
   },
   {
-   "channel": "lacy",
-   "title": "Ayo??",
-   "views": 189,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/lacy/clip/SpineyDreamyWaterDAESuppy-fU5wwOLmu68dPny4",
-   "created": 1795571834
+   "channel": "kaicenat",
+   "title": "kkkkkkk",
+   "views": 211,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/VainHilariousWallabyCclamChamp-iX7auG-nIhQ_TD4D",
+   "created": 1795532788
   },
   {
    "channel": "ohnepixel",
    "title": "eyetracker",
-   "views": 186,
+   "views": 207,
    "duration": 30.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/StrongCourageousBubbleteaBCWarrior-CrFjNT7DUToHg7yl",
    "created": 1795558620
   },
   {
+   "channel": "ohnepixel",
+   "title": "kiss rp",
+   "views": 200,
+   "duration": 15.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/TriangularBoxyZebraBlargNaut-tc02qRydFRd3cwGN",
+   "created": 1795533431
+  },
+  {
+   "channel": "lacy",
+   "title": "Ayo??",
+   "views": 198,
+   "duration": 18.0,
+   "url": "https://www.twitch.tv/lacy/clip/SpineyDreamyWaterDAESuppy-fU5wwOLmu68dPny4",
+   "created": 1795571834
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "Mods",
+   "views": 197,
+   "duration": 12.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/AstuteFrigidGazelleWOOP-y1mW0lc1k2D8Qown",
+   "created": 1795542938
+  },
+  {
    "channel": "ishowspeed",
    "title": "Speed got the worst ending",
-   "views": 183,
+   "views": 196,
    "duration": 30.0,
    "url": "https://www.twitch.tv/ishowspeed/clip/SmilingElatedAuberginePastaThat-XpsXIxEY05RTj6MF",
    "created": 1795511849
   },
   {
    "channel": "ohnepixel",
-   "title": "kiss rp",
-   "views": 180,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/TriangularBoxyZebraBlargNaut-tc02qRydFRd3cwGN",
-   "created": 1795533431
-  },
-  {
-   "channel": "missmikkaa",
-   "title": "Mods",
-   "views": 175,
-   "duration": 12.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/AstuteFrigidGazelleWOOP-y1mW0lc1k2D8Qown",
-   "created": 1795542938
-  },
-  {
-   "channel": "ohnepixel",
    "title": "\ud83d\udd34[DROPS] GTA 6 FULL PLAYTHROUGH\ud83d\udd34",
-   "views": 155,
+   "views": 177,
    "duration": 30.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/AdventurousFlirtySkunkJebaited-RLH92_4z2klZ5-x9",
    "created": 1795535363
@@ -308,26 +308,34 @@
   {
    "channel": "stableronaldo",
    "title": "Ron Reacts To The Black Hole Situation! \ud83d\ude02",
-   "views": 154,
+   "views": 164,
    "duration": 30.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/TentativeFlirtyAnacondaJKanStyle-kxN6GY2gAumPrzzK",
    "created": 1795555425
   },
   {
-   "channel": "ohnepixel",
-   "title": "ohnetries out somethings",
-   "views": 146,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/NaiveSpoopyMushroomMikeHogu-eBf9GvfhxKn47WFF",
-   "created": 1795543396
-  },
-  {
    "channel": "missmikkaa",
    "title": "Walking Sim of the Year",
-   "views": 145,
+   "views": 163,
    "duration": 30.0,
    "url": "https://www.twitch.tv/missmikkaa/clip/SmoothShakingPheasantCeilingCat-gCgpzf6QRFX5htxb",
    "created": 1795547753
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "gta-6-npc-interactions-line-voice-actors-ai",
+   "views": 154,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/ShyGlamorousSwallowMau5-W8XcJONeVBNVnwB7",
+   "created": 1795538983
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "ohnetries out somethings",
+   "views": 148,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/NaiveSpoopyMushroomMikeHogu-eBf9GvfhxKn47WFF",
+   "created": 1795543396
   },
   {
    "channel": "ohnepixel",
@@ -338,84 +346,100 @@
    "created": 1795535811
   },
   {
-   "channel": "ohnepixel",
-   "title": "gta-6-npc-interactions-line-voice-actors-ai",
-   "views": 132,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/ShyGlamorousSwallowMau5-W8XcJONeVBNVnwB7",
-   "created": 1795538983
-  },
-  {
-   "channel": "tfue",
-   "title": "There is no CHEATERS",
-   "views": 129,
-   "duration": 23.0,
-   "url": "https://www.twitch.tv/tfue/clip/SmoggyHappyHamburgerStoneLightning-7bpSHpcWY7e90Auf",
-   "created": 1795519222
-  },
-  {
-   "channel": "ohnepixel",
-   "title": "Locked in for Lucia",
-   "views": 125,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/PlausibleVibrantWalletRaccAttack-dQZ9Rh6lrpYttvXs",
-   "created": 1795539811
-  },
-  {
-   "channel": "ohnepixel",
-   "title": "no it didnt \ud83d\ude2d",
-   "views": 123,
-   "duration": 9.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/SpicyTubularChamoisTriHard-VJRv43LLnEGDWMRB",
-   "created": 1795530841
-  },
-  {
    "channel": "missmikkaa",
    "title": "Who scared Lucia??",
-   "views": 122,
+   "views": 139,
    "duration": 23.0,
    "url": "https://www.twitch.tv/missmikkaa/clip/OriginalBlindingSamosaAllenHuhu-8E5J2M7sUhyTDOhx",
    "created": 1795548087
   },
   {
-   "channel": "kaicenat",
-   "title": "Wow",
-   "views": 120,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/TentativePiliableCrowBCWarrior-iiYnUhhCz4KDD3mE",
-   "created": 1795512250
-  },
-  {
-   "channel": "ishowspeed",
-   "title": "singing",
-   "views": 120,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/ViscousAgileRingTTours-zmuuN2CL9U1d0S8d",
-   "created": 1795542999
-  },
-  {
    "channel": "ohnepixel",
    "title": "gta-6-gym-lucia-lock-in",
-   "views": 120,
+   "views": 134,
    "duration": 60.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/RelievedArtisticTofuNerfRedBlaster-yRBO_ObMQRB96QFN",
    "created": 1795544079
   },
   {
+   "channel": "tfue",
+   "title": "There is no CHEATERS",
+   "views": 133,
+   "duration": 23.0,
+   "url": "https://www.twitch.tv/tfue/clip/SmoggyHappyHamburgerStoneLightning-7bpSHpcWY7e90Auf",
+   "created": 1795519222
+  },
+  {
    "channel": "ishowspeed",
    "title": "Take yo ass on",
-   "views": 119,
+   "views": 130,
    "duration": 30.0,
    "url": "https://www.twitch.tv/ishowspeed/clip/MildSmoggyAnteaterKappa-3WP2E55Pb1Nr6KEb",
    "created": 1795547078
   },
   {
+   "channel": "ishowspeed",
+   "title": "singing",
+   "views": 129,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/ViscousAgileRingTTours-zmuuN2CL9U1d0S8d",
+   "created": 1795542999
+  },
+  {
+   "channel": "kaicenat",
+   "title": "Wow",
+   "views": 127,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/TentativePiliableCrowBCWarrior-iiYnUhhCz4KDD3mE",
+   "created": 1795512250
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "Locked in for Lucia",
+   "views": 127,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/PlausibleVibrantWalletRaccAttack-dQZ9Rh6lrpYttvXs",
+   "created": 1795539811
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "Found Ramzilla's house in game!",
+   "views": 127,
+   "duration": 37.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/SuspiciousMotionlessDiscRlyTho-Wx9Gvzx_pU3YgZbQ",
+   "created": 1795548262
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "no it didnt \ud83d\ude2d",
+   "views": 125,
+   "duration": 9.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/SpicyTubularChamoisTriHard-VJRv43LLnEGDWMRB",
+   "created": 1795530841
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "gta-car-crash-chase",
+   "views": 124,
+   "duration": 37.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/InventiveIcyLapwingAllenHuhu-BNWLklUpIfnrZAou",
+   "created": 1795545918
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "Just how does she always do this?",
+   "views": 121,
+   "duration": 26.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/InterestingCautiousWombatKlappa-7RFYJfVIYeSDMSOv",
+   "created": 1795551250
+  },
+  {
    "channel": "lacy",
-   "title": "digging up his what?",
+   "title": "confirmed gay",
    "views": 119,
-   "duration": 31.0,
-   "url": "https://www.twitch.tv/lacy/clip/SincereWiseCroissantDeIlluminati-F-rszz_9iqIpUMyC",
-   "created": 1795508612
+   "duration": 8.0,
+   "url": "https://www.twitch.tv/lacy/clip/TriumphantGloriousMuleBloodTrail-NkSiGpR81D0NWHbc",
+   "created": 1795569591
   },
   {
    "channel": "ohnepixel",
@@ -426,12 +450,44 @@
    "created": 1795542975
   },
   {
-   "channel": "missmikkaa",
-   "title": "Found Ramzilla's house in game!",
+   "channel": "ohnepixel",
+   "title": "gta-car-crash-local-locals",
+   "views": 115,
+   "duration": 16.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/RelievedSpookyHornetNomNom-47fgcuiDlzLPrcjt",
+   "created": 1795546129
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "gta-car-crash-truck",
+   "views": 113,
+   "duration": 22.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/ConcernedMoldyWaterOneHand-uSM0MAvI0eYdNfjA",
+   "created": 1795546217
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "TALKING BURGER",
+   "views": 112,
+   "duration": 31.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/TolerantSavageBeanStinkyCheese-Bj_lfR909Db1917X",
+   "created": 1795561921
+  },
+  {
+   "channel": "kaicenat",
+   "title": "Kai cenat car gives up mid chase and jason wouldnt get back in the car\ud83d\ude2d\ud83d\ude02",
    "views": 111,
-   "duration": 37.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/SuspiciousMotionlessDiscRlyTho-Wx9Gvzx_pU3YgZbQ",
-   "created": 1795548262
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/DarkEvilBobaDogFace-BhjKcxyU2NCkrSiR",
+   "created": 1795548790
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "gta-6-losing-cops-driving-backwards-car",
+   "views": 111,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/VainDeafSwanFailFish-zLBHycm6Ca4NVnoE",
+   "created": 1795552148
   },
   {
    "channel": "ohnepixel",
@@ -442,124 +498,108 @@
    "created": 1795546325
   },
   {
-   "channel": "ohnepixel",
-   "title": "gta-car-crash-chase",
-   "views": 110,
-   "duration": 37.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/InventiveIcyLapwingAllenHuhu-BNWLklUpIfnrZAou",
-   "created": 1795545918
-  },
-  {
-   "channel": "lacy",
-   "title": "confirmed gay",
-   "views": 110,
-   "duration": 8.0,
-   "url": "https://www.twitch.tv/lacy/clip/TriumphantGloriousMuleBloodTrail-NkSiGpR81D0NWHbc",
-   "created": 1795569591
-  },
-  {
-   "channel": "missmikkaa",
-   "title": "Just how does she always do this?",
-   "views": 107,
-   "duration": 26.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/InterestingCautiousWombatKlappa-7RFYJfVIYeSDMSOv",
-   "created": 1795551250
-  },
-  {
-   "channel": "stableronaldo",
-   "title": "TALKING BURGER",
-   "views": 105,
-   "duration": 31.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/TolerantSavageBeanStinkyCheese-Bj_lfR909Db1917X",
-   "created": 1795561921
-  },
-  {
-   "channel": "kaicenat",
-   "title": "Kai cenat car gives up mid chase and jason wouldnt get back in the car\ud83d\ude2d\ud83d\ude02",
-   "views": 104,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/DarkEvilBobaDogFace-BhjKcxyU2NCkrSiR",
-   "created": 1795548790
-  },
-  {
    "channel": "nickmercs",
    "title": "freakzoid",
-   "views": 103,
+   "views": 105,
    "duration": 15.0,
    "url": "https://www.twitch.tv/nickmercs/clip/DistinctCreativeAlmondWutFace-DyJHqWvIPPi02mQg",
    "created": 1795529938
   },
   {
    "channel": "ohnepixel",
-   "title": "gta-car-crash-truck",
-   "views": 102,
-   "duration": 22.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/ConcernedMoldyWaterOneHand-uSM0MAvI0eYdNfjA",
-   "created": 1795546217
-  },
-  {
-   "channel": "ohnepixel",
-   "title": "gta-car-crash-local-locals",
-   "views": 101,
-   "duration": 16.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/RelievedSpookyHornetNomNom-47fgcuiDlzLPrcjt",
-   "created": 1795546129
-  },
-  {
-   "channel": "ohnepixel",
-   "title": "gta-6-losing-cops-driving-backwards-car",
-   "views": 98,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/VainDeafSwanFailFish-zLBHycm6Ca4NVnoE",
-   "created": 1795552148
-  },
-  {
-   "channel": "ohnepixel",
-   "title": "Ohne stabs a homeless woman",
-   "views": 96,
-   "duration": 45.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/BelovedKitschySmoothieVoteNay-yk7ZU8tH9HaUuFLw",
-   "created": 1795535790
-  },
-  {
-   "channel": "kaicenat",
-   "title": "kai waited 13 year for this",
-   "views": 94,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/CovertBusyWhaleCmonBruh-NClfprmEmXjvF9Dz",
-   "created": 1795531757
-  },
-  {
-   "channel": "ishowspeed",
-   "title": "Bruhhh \ud83d\udc80",
-   "views": 94,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/BoldAgreeableWombatRedCoat-DcYLL0UXW5aaZkjN",
-   "created": 1795513867
-  },
-  {
-   "channel": "ohnepixel",
    "title": "gta-car-crash-g-wagon",
-   "views": 92,
+   "views": 104,
    "duration": 40.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/TiredCallousEggPeteZarollTie-o4m7C0qKjs9Kta75",
    "created": 1795546508
   },
   {
-   "channel": "lacy",
-   "title": "chat snitched on lacy",
-   "views": 89,
+   "channel": "ishowspeed",
+   "title": "Bruhhh \ud83d\udc80",
+   "views": 100,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/GeniusGiantDogPeanutButterJellyTime-VSK2fz0wvc_CA_Vs",
-   "created": 1795506748
+   "url": "https://www.twitch.tv/ishowspeed/clip/BoldAgreeableWombatRedCoat-DcYLL0UXW5aaZkjN",
+   "created": 1795513867
+  },
+  {
+   "channel": "kaicenat",
+   "title": "kai waited 13 year for this",
+   "views": 98,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/CovertBusyWhaleCmonBruh-NClfprmEmXjvF9Dz",
+   "created": 1795531757
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "Ohne stabs a homeless woman",
+   "views": 97,
+   "duration": 45.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/BelovedKitschySmoothieVoteNay-yk7ZU8tH9HaUuFLw",
+   "created": 1795535790
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "\ud83d\udd34[DROPS] GTA 6 PACIFIST PLAYTHROUGH\ud83d\udd34",
+   "views": 96,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/EasyCourageousStrawberryStinkyCheese-DFIzDcX2rPMufA9V",
+   "created": 1795546703
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "gta-6-nade-wasted-grenade-car-explode",
+   "views": 95,
+   "duration": 41.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/LongSpookyWalrusTheTarFu-TmiwUnWBY3VLDAmf",
+   "created": 1795546946
   },
   {
    "channel": "missmikkaa",
    "title": "Chat-Reaktion",
-   "views": 89,
+   "views": 95,
    "duration": 45.0,
    "url": "https://www.twitch.tv/missmikkaa/clip/GlutenFreeAlluringRaisinTebowing-q1RwXJF5oN2kGSvS",
    "created": 1795535426
+  },
+  {
+   "channel": "lacy",
+   "title": "gta6 battle royal",
+   "views": 94,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/CloudyHungrySkunkDancingBanana--ctR5SIp02nBTel0",
+   "created": 1795546948
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "nft-blockchain-crypto-gta-6",
+   "views": 90,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/HorribleSquareDugongUWot-AlT2VDicpYG9XD3N",
+   "created": 1795548864
+  },
+  {
+   "channel": "tfue",
+   "title": "Tfue",
+   "views": 87,
+   "duration": 23.0,
+   "url": "https://www.twitch.tv/tfue/clip/CrunchyBumblingHamsterPrimeMe-XWq8wp4Htcvvgx-O",
+   "created": 1795514794
+  },
+  {
+   "channel": "ishowspeed",
+   "title": "svk",
+   "views": 87,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CleverTalentedParrotPartyTime-2kslbL-2gHpVl_O1",
+   "created": 1795543579
+  },
+  {
+   "channel": "ohnepixel",
+   "title": "\ud83d\udd34[DROPS] GTA 6 PACIFIST PLAYTHROUGH\ud83d\udd34",
+   "views": 87,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ohnepixel/clip/SplendidSeductiveHorseDancingBanana-uc1wtD1Fgv3KW95R",
+   "created": 1795548807
   },
   {
    "channel": "ohnepixel",
@@ -571,120 +611,64 @@
   },
   {
    "channel": "ohnepixel",
-   "title": "\ud83d\udd34[DROPS] GTA 6 PACIFIST PLAYTHROUGH\ud83d\udd34",
-   "views": 86,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/EasyCourageousStrawberryStinkyCheese-DFIzDcX2rPMufA9V",
-   "created": 1795546703
-  },
-  {
-   "channel": "ohnepixel",
-   "title": "gta-6-nade-wasted-grenade-car-explode",
-   "views": 85,
-   "duration": 41.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/LongSpookyWalrusTheTarFu-TmiwUnWBY3VLDAmf",
-   "created": 1795546946
-  },
-  {
-   "channel": "lacy",
-   "title": "gta6 battle royal",
-   "views": 85,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/CloudyHungrySkunkDancingBanana--ctR5SIp02nBTel0",
-   "created": 1795546948
-  },
-  {
-   "channel": "ohnepixel",
    "title": "son",
-   "views": 84,
+   "views": 85,
    "duration": 5.0,
    "url": "https://www.twitch.tv/ohnepixel/clip/AdventurousAbnegateFinchMikeHogu-M52MEnbMgv7-Ans6",
    "created": 1795530606
   },
   {
-   "channel": "tfue",
-   "title": "Tfue",
-   "views": 82,
-   "duration": 23.0,
-   "url": "https://www.twitch.tv/tfue/clip/CrunchyBumblingHamsterPrimeMe-XWq8wp4Htcvvgx-O",
-   "created": 1795514794
+   "channel": "lacy",
+   "title": "WE IN MIAMI",
+   "views": 85,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/BelovedSpeedyBeefStoneLightning-DPUv-YZppncpFARz",
+   "created": 1795566859
+  },
+  {
+   "channel": "ishowspeed",
+   "title": "lol",
+   "views": 84,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/MuddyChillyTriangleBloodTrail-pBtSmUKN6lV5Gb_v",
+   "created": 1795544612
+  },
+  {
+   "channel": "lacy",
+   "title": "fail",
+   "views": 84,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/lacy/clip/WildInquisitiveRutabagaEagleEye-fC0y1TRvGE7xNcb9",
+   "created": 1795513983
   },
   {
    "channel": "kaicenat",
    "title": "KaiCenat with no Ammo #KaiCenat",
-   "views": 81,
+   "views": 82,
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/AlertAnnoyingGerbilWholeWheat-KzsKTFgRp1hagvB3",
    "created": 1795522621
   },
   {
-   "channel": "ishowspeed",
-   "title": "svk",
-   "views": 79,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/CleverTalentedParrotPartyTime-2kslbL-2gHpVl_O1",
-   "created": 1795543579
-  },
-  {
-   "channel": "ohnepixel",
-   "title": "nft-blockchain-crypto-gta-6",
-   "views": 79,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/HorribleSquareDugongUWot-AlT2VDicpYG9XD3N",
-   "created": 1795548864
-  },
-  {
    "channel": "teegrizzley",
    "title": "teegrizzley - Highlight c82244 Part 01",
-   "views": 79,
+   "views": 81,
    "duration": 60.0,
    "url": "https://www.twitch.tv/teegrizzley/clip/JollyHelpfulJuiceFrankerZ-KyVSn12x92fpyfSe",
    "created": 1795547868
   },
   {
    "channel": "lacy",
-   "title": "WE IN MIAMI",
-   "views": 78,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/BelovedSpeedyBeefStoneLightning-DPUv-YZppncpFARz",
-   "created": 1795566859
-  },
-  {
-   "channel": "lacy",
-   "title": "fail",
-   "views": 77,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/lacy/clip/WildInquisitiveRutabagaEagleEye-fC0y1TRvGE7xNcb9",
-   "created": 1795513983
-  },
-  {
-   "channel": "ohnepixel",
-   "title": "\ud83d\udd34[DROPS] GTA 6 PACIFIST PLAYTHROUGH\ud83d\udd34",
-   "views": 76,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ohnepixel/clip/SplendidSeductiveHorseDancingBanana-uc1wtD1Fgv3KW95R",
-   "created": 1795548807
-  },
-  {
-   "channel": "lacy",
    "title": "hey oh shit my onion",
-   "views": 75,
+   "views": 78,
    "duration": 60.0,
    "url": "https://www.twitch.tv/lacy/clip/EagerTrappedLEDTBCheesePull-rebYERGR8BqRzsEl",
    "created": 1795566188
   },
   {
-   "channel": "ishowspeed",
-   "title": "lol",
-   "views": 73,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/MuddyChillyTriangleBloodTrail-pBtSmUKN6lV5Gb_v",
-   "created": 1795544612
-  },
-  {
    "channel": "hutchmf",
    "title": "Raina - Jason Boing Boing",
-   "views": 72,
+   "views": 76,
    "duration": 51.0,
    "url": "https://www.twitch.tv/hutchmf/clip/BeautifulBigCheeseDatBoi-Hyw_9Hi3083p30mY",
    "created": 1795546783
@@ -692,7 +676,7 @@
   {
    "channel": "ishowspeed",
    "title": "speed",
-   "views": 70,
+   "views": 76,
    "duration": 54.0,
    "url": "https://www.twitch.tv/ishowspeed/clip/AgileBlightedCatDancingBaby-U9S73E4bYVec9JCq",
    "created": 1795514844
@@ -700,7 +684,7 @@
   {
    "channel": "kaicenat",
    "title": "k 4",
-   "views": 69,
+   "views": 73,
    "duration": 33.0,
    "url": "https://www.twitch.tv/kaicenat/clip/DeadFurtiveEchidnaVoteYea-x5OGRRzhCh6CNDet",
    "created": 1795518006
@@ -708,15 +692,23 @@
   {
    "channel": "ishowspeed",
    "title": "chicken fighting \ud83d\ude02",
-   "views": 68,
+   "views": 73,
    "duration": 30.0,
    "url": "https://www.twitch.tv/ishowspeed/clip/EphemeralHardGoblinCorgiDerp-6mb8BNxlf-N6Uv-1",
    "created": 1795547874
   },
   {
+   "channel": "stableronaldo",
+   "title": "Ron gets jumpscared",
+   "views": 72,
+   "duration": 8.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/SnappySpikyMarjoramOpieOP-e2j8rD0H3OWiiHfG",
+   "created": 1795560560
+  },
+  {
    "channel": "nickmercs",
    "title": "a30",
-   "views": 65,
+   "views": 68,
    "duration": 30.0,
    "url": "https://www.twitch.tv/nickmercs/clip/CrackySquareCrabs4Head-Ho7pC5lpUFc_4rPI",
    "created": 1795526934
@@ -724,42 +716,34 @@
   {
    "channel": "kaicenat",
    "title": "funny",
-   "views": 64,
+   "views": 66,
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/PuzzledSecretiveTofuJebaited-dMZ_HMBnFZjg-bM-",
    "created": 1795542421
   },
   {
-   "channel": "stableronaldo",
-   "title": "Ron gets jumpscared",
-   "views": 64,
-   "duration": 8.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/SnappySpikyMarjoramOpieOP-e2j8rD0H3OWiiHfG",
-   "created": 1795560560
-  },
-  {
-   "channel": "kaicenat",
-   "title": "kai",
-   "views": 62,
-   "duration": 22.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/FaithfulAntediluvianQueleaSMOrc-zURaIVbgfK68qXfp",
-   "created": 1795506651
+   "channel": "illojuan",
+   "title": "IlloJuan se encuentra con un ovni",
+   "views": 63,
+   "duration": 37.0,
+   "url": "https://www.twitch.tv/illojuan/clip/HotBrainyDaikonOSfrog-sTc42gYlZveqhRJe",
+   "created": 1795554627
   },
   {
    "channel": "stableronaldo",
    "title": "w body \ud83d\ude0d",
-   "views": 58,
+   "views": 62,
    "duration": 60.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/QuaintStrongTortoiseTebowing-u_9CA9BE_RD7I1hT",
    "created": 1795555628
   },
   {
-   "channel": "illojuan",
-   "title": "IlloJuan se encuentra con un ovni",
-   "views": 58,
-   "duration": 37.0,
-   "url": "https://www.twitch.tv/illojuan/clip/HotBrainyDaikonOSfrog-sTc42gYlZveqhRJe",
-   "created": 1795554627
+   "channel": "tfue",
+   "title": "cheater",
+   "views": 57,
+   "duration": 21.0,
+   "url": "https://www.twitch.tv/tfue/clip/DifferentDreamyChickenBudStar-_tB0doUo3unXMqpB",
+   "created": 1795581756
   },
   {
    "channel": "kaicenat",
@@ -770,12 +754,12 @@
    "created": 1795523122
   },
   {
-   "channel": "tfue",
-   "title": "cheater",
-   "views": 55,
-   "duration": 21.0,
-   "url": "https://www.twitch.tv/tfue/clip/DifferentDreamyChickenBudStar-_tB0doUo3unXMqpB",
-   "created": 1795581756
+   "channel": "lacy",
+   "title": "titts",
+   "views": 56,
+   "duration": 15.0,
+   "url": "https://www.twitch.tv/lacy/clip/SquareTenderSwordNinjaGrumpy-6e61Ch9Ty06E_Xra",
+   "created": 1795519642
   },
   {
    "channel": "ohnepixel",
@@ -786,12 +770,20 @@
    "created": 1795548955
   },
   {
-   "channel": "lacy",
-   "title": "lacy 1",
+   "channel": "kaicenat",
+   "title": "The MATRIX",
    "views": 54,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/lacy/clip/CrackyHealthyEggplantTriHard-IuUXQ19DB-2ThNDK",
-   "created": 1795508496
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/GoodSilkyJuiceANELE-9XkpXJopcXO4lPFM",
+   "created": 1795547744
+  },
+  {
+   "channel": "illojuan",
+   "title": "Linkin Park",
+   "views": 54,
+   "duration": 38.0,
+   "url": "https://www.twitch.tv/illojuan/clip/SplendidSpoopyAppleKeyboardCat-I_AOTddWRyn5vjCM",
+   "created": 1795545034
   },
   {
    "channel": "ohnepixel",
@@ -802,28 +794,36 @@
    "created": 1795530393
   },
   {
-   "channel": "kaicenat",
-   "title": "The MATRIX",
-   "views": 52,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/GoodSilkyJuiceANELE-9XkpXJopcXO4lPFM",
-   "created": 1795547744
-  },
-  {
    "channel": "missmikkaa",
    "title": "car flying",
-   "views": 51,
+   "views": 52,
    "duration": 30.0,
    "url": "https://www.twitch.tv/missmikkaa/clip/DiligentBlatantBeaverNinjaGrumpy-sN7hepmzJJ6ziijX",
    "created": 1795562198
   },
   {
-   "channel": "illojuan",
-   "title": "Linkin Park",
+   "channel": "teegrizzley",
+   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
+   "views": 51,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/teegrizzley/clip/EnergeticSavoryMilkNinjaGrumpy-ku1S8e3eLV06GosV",
+   "created": 1795548250
+  },
+  {
+   "channel": "ishowspeed",
+   "title": "Ishowspeed gets very happy and does the emote irl",
    "views": 50,
-   "duration": 38.0,
-   "url": "https://www.twitch.tv/illojuan/clip/SplendidSpoopyAppleKeyboardCat-I_AOTddWRyn5vjCM",
-   "created": 1795545034
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SecretiveAmusedWolverineRalpherZ-HbQ3QHavjeDLeIT7",
+   "created": 1795525210
+  },
+  {
+   "channel": "nickmercs",
+   "title": "??????????",
+   "views": 49,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/AliveEndearingShrewImGlitch-r0jA5R1w91KWrFvP",
+   "created": 1795540703
   },
   {
    "channel": "kaicenat",
@@ -834,52 +834,36 @@
    "created": 1795542075
   },
   {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 49,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/EnergeticSavoryMilkNinjaGrumpy-ku1S8e3eLV06GosV",
-   "created": 1795548250
-  },
-  {
-   "channel": "lacy",
-   "title": "titts",
-   "views": 49,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/lacy/clip/SquareTenderSwordNinjaGrumpy-6e61Ch9Ty06E_Xra",
-   "created": 1795519642
-  },
-  {
-   "channel": "nickmercs",
-   "title": "??????????",
-   "views": 47,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/AliveEndearingShrewImGlitch-r0jA5R1w91KWrFvP",
-   "created": 1795540703
-  },
-  {
    "channel": "ishowspeed",
    "title": "\u2026",
-   "views": 47,
+   "views": 49,
    "duration": 60.0,
    "url": "https://www.twitch.tv/ishowspeed/clip/LuckyRenownedNarwhalPlanking-JMc4621brfJlA1aH",
    "created": 1795520866
   },
   {
-   "channel": "stableronaldo",
-   "title": "LOLLLLLLLL",
-   "views": 47,
-   "duration": 5.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/OddPlainLorisTheTarFu-Ado26FnRF03AtxWP",
-   "created": 1795560413
+   "channel": "lacy",
+   "title": "WE IN MIAMI",
+   "views": 49,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/AgitatedAdventurousDragonfruitJonCarnage-_FRIRIZc3iYpkCUa",
+   "created": 1795561769
   },
   {
    "channel": "ishowspeed",
    "title": "he not happy",
-   "views": 46,
+   "views": 48,
    "duration": 59.0,
    "url": "https://www.twitch.tv/ishowspeed/clip/TsundereDeterminedClipsmomTBTacoRight--SD3_WTvUatPDisc",
    "created": 1795544262
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "LOLLLLLLLL",
+   "views": 48,
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/OddPlainLorisTheTarFu-Ado26FnRF03AtxWP",
+   "created": 1795560413
   },
   {
    "channel": "stableronaldo",
@@ -890,25 +874,17 @@
    "created": 1795557894
   },
   {
-   "channel": "ishowspeed",
-   "title": "Ishowspeed gets very happy and does the emote irl",
-   "views": 45,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/SecretiveAmusedWolverineRalpherZ-HbQ3QHavjeDLeIT7",
-   "created": 1795525210
-  },
-  {
-   "channel": "lacy",
-   "title": "WE IN MIAMI",
-   "views": 45,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/AgitatedAdventurousDragonfruitJonCarnage-_FRIRIZc3iYpkCUa",
-   "created": 1795561769
+   "channel": "illojuan",
+   "title": "co\u00f1o",
+   "views": 46,
+   "duration": 10.0,
+   "url": "https://www.twitch.tv/illojuan/clip/CoyImportantConsoleArsonNoSexy-O3n9drFFMc1QacSU",
+   "created": 1795540022
   },
   {
    "channel": "hutchmf",
    "title": "Lmao",
-   "views": 43,
+   "views": 45,
    "duration": 60.0,
    "url": "https://www.twitch.tv/hutchmf/clip/AliveGrossIguanaPupper-IAn2v0gJvusY4nff",
    "created": 1795536362
@@ -920,14 +896,6 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/CovertPlumpGaurSmoocherZ-XKvw2mTTZoxzQUhM",
    "created": 1795542537
-  },
-  {
-   "channel": "illojuan",
-   "title": "co\u00f1o",
-   "views": 42,
-   "duration": 10.0,
-   "url": "https://www.twitch.tv/illojuan/clip/CoyImportantConsoleArsonNoSexy-O3n9drFFMc1QacSU",
-   "created": 1795540022
   },
   {
    "channel": "kaicenat",
@@ -954,6 +922,30 @@
    "created": 1795542272
   },
   {
+   "channel": "ishowspeed",
+   "title": "gta 6",
+   "views": 40,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/PlacidBlushingCocoaMikeHogu-8v7mtZd4ny665WkT",
+   "created": 1795528743
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "Ron Finds Out What Happened On Jupiter! \ud83d\ude02",
+   "views": 40,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/MotionlessTallJamWow-pZbC_t9edgmtfv6n",
+   "created": 1795555056
+  },
+  {
+   "channel": "illojuan",
+   "title": "\u00bfComo pollas?",
+   "views": 40,
+   "duration": 26.0,
+   "url": "https://www.twitch.tv/illojuan/clip/AlluringLovelyClintmullinsPastaThat-QvoNSsk1BjtI195P",
+   "created": 1795525990
+  },
+  {
    "channel": "ohnepixel",
    "title": "yellow",
    "views": 39,
@@ -963,27 +955,27 @@
   },
   {
    "channel": "ishowspeed",
-   "title": "gta 6",
-   "views": 38,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/PlacidBlushingCocoaMikeHogu-8v7mtZd4ny665WkT",
-   "created": 1795528743
+   "title": "?",
+   "views": 36,
+   "duration": 59.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/GeniusPatientBarracudaWoofer-95SO1_o1BSTmQHvf",
+   "created": 1795542221
   },
   {
-   "channel": "stableronaldo",
-   "title": "Ron Finds Out What Happened On Jupiter! \ud83d\ude02",
-   "views": 38,
+   "channel": "lacy",
+   "title": "WE IN MIAMI",
+   "views": 36,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/MotionlessTallJamWow-pZbC_t9edgmtfv6n",
-   "created": 1795555056
+   "url": "https://www.twitch.tv/lacy/clip/FrozenCrazyToadThisIsSparta-qIJIHRcNc49Y6hoW",
+   "created": 1795557617
   },
   {
-   "channel": "illojuan",
-   "title": "\u00bfComo pollas?",
-   "views": 38,
-   "duration": 26.0,
-   "url": "https://www.twitch.tv/illojuan/clip/AlluringLovelyClintmullinsPastaThat-QvoNSsk1BjtI195P",
-   "created": 1795525990
+   "channel": "missmikkaa",
+   "title": "GTA 6",
+   "views": 36,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/PlumpFairCurryPanicVis-0XYOjpBT4eYuM6_C",
+   "created": 1795535555
   },
   {
    "channel": "ohnepixel",
@@ -1002,12 +994,12 @@
    "created": 1795554742
   },
   {
-   "channel": "missmikkaa",
-   "title": "GTA 6",
-   "views": 35,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/PlumpFairCurryPanicVis-0XYOjpBT4eYuM6_C",
-   "created": 1795535555
+   "channel": "ishowspeed",
+   "title": "?",
+   "views": 34,
+   "duration": 59.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/BoldSparklingAardvarkStrawBeary-9jlLaPk5hN4AUhzV",
+   "created": 1795542690
   },
   {
    "channel": "kaicenat",
@@ -1018,12 +1010,28 @@
    "created": 1795546358
   },
   {
-   "channel": "lacy",
-   "title": "WE IN MIAMI",
+   "channel": "stableronaldo",
+   "title": "yay emmaaaa",
    "views": 33,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/FrozenCrazyToadThisIsSparta-qIJIHRcNc49Y6hoW",
-   "created": 1795557617
+   "duration": 10.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/FuriousUnsightlyCheddarNerfRedBlaster-jh-_N4tn_WSnRPbm",
+   "created": 1795567990
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "I didn't do  that!",
+   "views": 33,
+   "duration": 22.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/YummyDaintyWerewolfDuDudu-8GJ3F1IMMyMP9qEr",
+   "created": 1795537730
+  },
+  {
+   "channel": "nickmercs",
+   "title": "feet pics with nickmerc lol",
+   "views": 32,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/InventiveAbstruseWeaselAMPEnergyCherry-_iaOEn1Y8DgBsrUw",
+   "created": 1795529915
   },
   {
    "channel": "kaicenat",
@@ -1035,11 +1043,11 @@
   },
   {
    "channel": "ishowspeed",
-   "title": "?",
+   "title": "HE JUST DID A BACKFLIP IN GTA 6 \ud83d\ude2d\ud83d\udd25",
    "views": 32,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/GeniusPatientBarracudaWoofer-95SO1_o1BSTmQHvf",
-   "created": 1795542221
+   "duration": 32.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/ProtectivePopularDolphinTriHard-HRhwsu8sBkw2jmY1",
+   "created": 1795540720
   },
   {
    "channel": "ohnepixel",
@@ -1051,32 +1059,8 @@
   },
   {
    "channel": "stableronaldo",
-   "title": "yay emmaaaa",
-   "views": 32,
-   "duration": 10.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/FuriousUnsightlyCheddarNerfRedBlaster-jh-_N4tn_WSnRPbm",
-   "created": 1795567990
-  },
-  {
-   "channel": "missmikkaa",
-   "title": "I didn't do  that!",
-   "views": 32,
-   "duration": 22.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/YummyDaintyWerewolfDuDudu-8GJ3F1IMMyMP9qEr",
-   "created": 1795537730
-  },
-  {
-   "channel": "ishowspeed",
-   "title": "?",
-   "views": 31,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/BoldSparklingAardvarkStrawBeary-9jlLaPk5hN4AUhzV",
-   "created": 1795542690
-  },
-  {
-   "channel": "stableronaldo",
    "title": "here he makes his character",
-   "views": 31,
+   "views": 32,
    "duration": 30.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/StrangeCreativeAlmondTwitchRaid-PysJ5OpaP354y8kA",
    "created": 1795517860
@@ -1084,7 +1068,7 @@
   {
    "channel": "lacy",
    "title": "pp",
-   "views": 31,
+   "views": 32,
    "duration": 12.0,
    "url": "https://www.twitch.tv/lacy/clip/GleamingNastyPotSeemsGood-nYyGJH2hY9x_VXog",
    "created": 1795574129
@@ -1092,18 +1076,10 @@
   {
    "channel": "illojuan",
    "title": "jQjajajajaja",
-   "views": 31,
+   "views": 32,
    "duration": 30.0,
    "url": "https://www.twitch.tv/illojuan/clip/MoldyModernMosquitoDatBoi-fJcXt9y_gwuhUIGK",
    "created": 1795539621
-  },
-  {
-   "channel": "nickmercs",
-   "title": "feet pics with nickmerc lol",
-   "views": 30,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/InventiveAbstruseWeaselAMPEnergyCherry-_iaOEn1Y8DgBsrUw",
-   "created": 1795529915
   },
   {
    "channel": "kaicenat",
@@ -1112,6 +1088,22 @@
    "duration": 12.0,
    "url": "https://www.twitch.tv/kaicenat/clip/GeniusBlazingCurryRlyTho-4PsSk1CR1dcZ58tw",
    "created": 1795552640
+  },
+  {
+   "channel": "timthetatman",
+   "title": "tim singing no music XD",
+   "views": 30,
+   "duration": 17.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/VenomousBlazingFinchBudStar-NckFhZrOUJk_ouxe",
+   "created": 1795548730
+  },
+  {
+   "channel": "tfue",
+   "title": "cheater",
+   "views": 29,
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/tfue/clip/SavoryDistinctFlyOneHand-lObEdzoymCqMVqav",
+   "created": 1795581783
   },
   {
    "channel": "hutchmf",
@@ -1123,19 +1115,19 @@
   },
   {
    "channel": "ishowspeed",
-   "title": "HE JUST DID A BACKFLIP IN GTA 6 \ud83d\ude2d\ud83d\udd25",
-   "views": 29,
-   "duration": 32.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/ProtectivePopularDolphinTriHard-HRhwsu8sBkw2jmY1",
-   "created": 1795540720
-  },
-  {
-   "channel": "ishowspeed",
    "title": "shower",
    "views": 29,
    "duration": 50.0,
    "url": "https://www.twitch.tv/ishowspeed/clip/TemperedSparklyKeyboardOMGScoots-vYSMmyFgW-zKG7kY",
    "created": 1795545634
+  },
+  {
+   "channel": "ishowspeed",
+   "title": "crying",
+   "views": 29,
+   "duration": 8.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/InquisitiveVainOkapiTBTacoLeft-AwIgg6WvKPd7LL2R",
+   "created": 1795550764
   },
   {
    "channel": "stableronaldo",
@@ -1144,6 +1136,14 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/HappyDeterminedSandwichRalpherZ-QI4qFF6T5g4Gzr8f",
    "created": 1795568666
+  },
+  {
+   "channel": "lacy",
+   "title": "lacy says hes himped he\u2019s mans before",
+   "views": 29,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/CrunchyInspiringWerewolfItsBoshyTime-M5-AdW7XJ7tzJMUF",
+   "created": 1795560436
   },
   {
    "channel": "kaicenat",
@@ -1155,19 +1155,19 @@
   },
   {
    "channel": "kaicenat",
-   "title": "funny moment",
-   "views": 28,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/WittyTawdryPheasantTooSpicy-I9BlluRPT1uTsT2S",
-   "created": 1795524644
-  },
-  {
-   "channel": "kaicenat",
    "title": "KAI VS SPEED: FIRST TO MAKE A MILLION DOLLARS IN GTA 6",
    "views": 28,
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/BovineNaiveTigerGingerPower-GeUDiaNtqlK51IHy",
    "created": 1795543968
+  },
+  {
+   "channel": "kaicenat",
+   "title": "funny moment",
+   "views": 28,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/WittyTawdryPheasantTooSpicy-I9BlluRPT1uTsT2S",
+   "created": 1795524644
   },
   {
    "channel": "ishowspeed",
@@ -1186,52 +1186,44 @@
    "created": 1795553303
   },
   {
-   "channel": "lacy",
-   "title": "lacy says hes himped he\u2019s mans before",
-   "views": 28,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/CrunchyInspiringWerewolfItsBoshyTime-M5-AdW7XJ7tzJMUF",
-   "created": 1795560436
-  },
-  {
-   "channel": "timthetatman",
-   "title": "tim singing no music XD",
-   "views": 28,
-   "duration": 17.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/VenomousBlazingFinchBudStar-NckFhZrOUJk_ouxe",
-   "created": 1795548730
-  },
-  {
-   "channel": "tfue",
-   "title": "cheater",
-   "views": 27,
-   "duration": 5.0,
-   "url": "https://www.twitch.tv/tfue/clip/SavoryDistinctFlyOneHand-lObEdzoymCqMVqav",
-   "created": 1795581783
-  },
-  {
-   "channel": "ishowspeed",
-   "title": "crying",
-   "views": 27,
-   "duration": 8.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/InquisitiveVainOkapiTBTacoLeft-AwIgg6WvKPd7LL2R",
-   "created": 1795550764
-  },
-  {
    "channel": "stableronaldo",
    "title": "Adapt Pulls Up On Ron Doing A Garage Sale! \ud83d\ude02",
-   "views": 27,
+   "views": 28,
    "duration": 56.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/GiftedTacitFlamingoCclamChamp-7KUSCVfBfZpgpAD2",
    "created": 1795562282
   },
   {
-   "channel": "kaicenat",
-   "title": "KAI FINDS OUT SPEED IS ALREADY PLAYING GTA 6 \ud83d\ude2d",
-   "views": 26,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/NicePlumpDadCorgiDerp-256ijvLcV59INHwh",
-   "created": 1795543458
+   "channel": "ishowspeed",
+   "title": "car",
+   "views": 27,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CrepuscularFamousBatteryAMPEnergy-xRdouL_xrW57Oyro",
+   "created": 1795521264
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "yugi",
+   "views": 27,
+   "duration": 10.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/LuckyOilyGoldfishPipeHype-Ik5qQR9a1WnmVZ81",
+   "created": 1795571539
+  },
+  {
+   "channel": "lacy",
+   "title": "lacy gets hacked",
+   "views": 27,
+   "duration": 24.0,
+   "url": "https://www.twitch.tv/lacy/clip/FriendlyPrettyPieVoteNay-3DOO2m_-CjidQj0i",
+   "created": 1795555812
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "1",
+   "views": 27,
+   "duration": 51.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/HandsomeColdbloodedPotYee-JYFTPAYCm1YbRDok",
+   "created": 1795545628
   },
   {
    "channel": "kaicenat",
@@ -1243,6 +1235,14 @@
   },
   {
    "channel": "kaicenat",
+   "title": "KAI FINDS OUT SPEED IS ALREADY PLAYING GTA 6 \ud83d\ude2d",
+   "views": 26,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/NicePlumpDadCorgiDerp-256ijvLcV59INHwh",
+   "created": 1795543458
+  },
+  {
+   "channel": "kaicenat",
    "title": "KAI HIT THE WALL\ud83d\ude02\ud83d\ude02",
    "views": 26,
    "duration": 60.0,
@@ -1251,11 +1251,35 @@
   },
   {
    "channel": "ishowspeed",
-   "title": "car",
+   "title": "ben",
+   "views": 26,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/TangentialAbnegateGrouseSwiftRage-HdsbO_ac6QO29fYp",
+   "created": 1795527261
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "chat call him ugly",
+   "views": 26,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/HandsomeAverageTofuVoHiYo-9pELtM2wGsiP5Vef",
+   "created": 1795548630
+  },
+  {
+   "channel": "lacy",
+   "title": "jump",
    "views": 26,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/CrepuscularFamousBatteryAMPEnergy-xRdouL_xrW57Oyro",
-   "created": 1795521264
+   "url": "https://www.twitch.tv/lacy/clip/TenderChillySoymilkFreakinStinkin-xVJhWhn3kgg3BnJv",
+   "created": 1795514088
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "\ud83d\udcf8",
+   "views": 26,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/DifficultSuaveFrogSoonerLater-oUflgUJOWDvBVM9p",
+   "created": 1795548113
   },
   {
    "channel": "kaicenat",
@@ -1274,36 +1298,36 @@
    "created": 1795561146
   },
   {
-   "channel": "ishowspeed",
-   "title": "ben",
-   "views": 25,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/TangentialAbnegateGrouseSwiftRage-HdsbO_ac6QO29fYp",
-   "created": 1795527261
-  },
-  {
    "channel": "stableronaldo",
-   "title": "chat call him ugly",
+   "title": "EMMAAAA",
    "views": 25,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/InquisitivePhilanthropicBillDxCat-KdRXj95kQKy-DUdt",
+   "created": 1795565140
+  },
+  {
+   "channel": "illojuan",
+   "title": "Pov Baity",
+   "views": 25,
+   "duration": 6.0,
+   "url": "https://www.twitch.tv/illojuan/clip/WittyEphemeralBaconDoritosChip-zpycxseE86FGqpBr",
+   "created": 1795547531
+  },
+  {
+   "channel": "kaicenat",
+   "title": "?",
+   "views": 24,
+   "duration": 59.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/PerfectInquisitiveCheetahArgieB8-H8O4Z47VfxNp6p3U",
+   "created": 1795542562
+  },
+  {
+   "channel": "kaicenat",
+   "title": "clip lap",
+   "views": 24,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/HandsomeAverageTofuVoHiYo-9pELtM2wGsiP5Vef",
-   "created": 1795548630
-  },
-  {
-   "channel": "stableronaldo",
-   "title": "yugi",
-   "views": 25,
-   "duration": 10.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/LuckyOilyGoldfishPipeHype-Ik5qQR9a1WnmVZ81",
-   "created": 1795571539
-  },
-  {
-   "channel": "lacy",
-   "title": "lacy gets hacked",
-   "views": 25,
-   "duration": 24.0,
-   "url": "https://www.twitch.tv/lacy/clip/FriendlyPrettyPieVoteNay-3DOO2m_-CjidQj0i",
-   "created": 1795555812
+   "url": "https://www.twitch.tv/kaicenat/clip/SincereObliqueFennelBudStar-fjHOALhDj8ibxqRU",
+   "created": 1795535949
   },
   {
    "channel": "stableronaldo",
@@ -1314,12 +1338,12 @@
    "created": 1795575098
   },
   {
-   "channel": "kaicenat",
-   "title": "?",
-   "views": 23,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/ToughFancyCroquetteNomNom-JNs91PIdFc3EXtX3",
-   "created": 1795542894
+   "channel": "jasontheween",
+   "title": "jason",
+   "views": 24,
+   "duration": 39.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/SmoothViscousBasenjiKappa-v8jVOZfUKxD0_mVu",
+   "created": 1795544414
   },
   {
    "channel": "kaicenat",
@@ -1339,51 +1363,43 @@
   },
   {
    "channel": "kaicenat",
-   "title": "clip lap",
-   "views": 23,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/SincereObliqueFennelBudStar-fjHOALhDj8ibxqRU",
-   "created": 1795535949
-  },
-  {
-   "channel": "kaicenat",
    "title": "?",
    "views": 23,
    "duration": 59.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/PerfectInquisitiveCheetahArgieB8-H8O4Z47VfxNp6p3U",
-   "created": 1795542562
+   "url": "https://www.twitch.tv/kaicenat/clip/ToughFancyCroquetteNomNom-JNs91PIdFc3EXtX3",
+   "created": 1795542894
+  },
+  {
+   "channel": "ishowspeed",
+   "title": "f",
+   "views": 23,
+   "duration": 28.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SpikyPoorHerdYouWHY-DOD5mmBhz4haZzWC",
+   "created": 1795544382
+  },
+  {
+   "channel": "ishowspeed",
+   "title": "speed reatcs to the avengers doomsday trailer",
+   "views": 23,
+   "duration": 53.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CuteLittleSlothWoofer-JayV1V003iAmcaEN",
+   "created": 1795542454
   },
   {
    "channel": "stableronaldo",
-   "title": "EMMAAAA",
+   "title": "was won on jupiter ?",
+   "views": 23,
+   "duration": 56.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/RelentlessLongFoxKappa-VKijYDAocvBYcSWa",
+   "created": 1795555004
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "WOW DILDDDDOOO",
    "views": 23,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/InquisitivePhilanthropicBillDxCat-KdRXj95kQKy-DUdt",
-   "created": 1795565140
-  },
-  {
-   "channel": "lacy",
-   "title": "jump",
-   "views": 23,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/lacy/clip/TenderChillySoymilkFreakinStinkin-xVJhWhn3kgg3BnJv",
-   "created": 1795514088
-  },
-  {
-   "channel": "illojuan",
-   "title": "Pov Baity",
-   "views": 23,
-   "duration": 6.0,
-   "url": "https://www.twitch.tv/illojuan/clip/WittyEphemeralBaconDoritosChip-zpycxseE86FGqpBr",
-   "created": 1795547531
-  },
-  {
-   "channel": "kaicenat",
-   "title": "Kai Escapes The Bank With 5 Stars On Him!",
-   "views": 22,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/StupidAnnoyingHedgehogRitzMitz-kTS_J3qzh-LWcGq7",
-   "created": 1795553366
+   "url": "https://www.twitch.tv/missmikkaa/clip/StormyAwkwardCheesecakePlanking-kKyeBAhrcSgy0T3i",
+   "created": 1795548429
   },
   {
    "channel": "kaicenat",
@@ -1394,12 +1410,20 @@
    "created": 1795546097
   },
   {
-   "channel": "ishowspeed",
-   "title": "f",
+   "channel": "kaicenat",
+   "title": "Kai Escapes The Bank With 5 Stars On Him!",
    "views": 22,
-   "duration": 28.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/SpikyPoorHerdYouWHY-DOD5mmBhz4haZzWC",
-   "created": 1795544382
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/StupidAnnoyingHedgehogRitzMitz-kTS_J3qzh-LWcGq7",
+   "created": 1795553366
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "cops pulled up",
+   "views": 22,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/AlluringCrazyPotatoHeyGirl-RS4haeaGjwaE9Rsu",
+   "created": 1795567360
   },
   {
    "channel": "stableronaldo",
@@ -1408,6 +1432,22 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/BlightedCorrectHerbsPogChamp-I18C9qmH21FCKoUH",
    "created": 1795554846
+  },
+  {
+   "channel": "lacy",
+   "title": "jerk",
+   "views": 22,
+   "duration": 42.0,
+   "url": "https://www.twitch.tv/lacy/clip/ZealousRockyMeerkatBleedPurple-qhYlqat4vH4nFuX1",
+   "created": 1795518640
+  },
+  {
+   "channel": "illojuan",
+   "title": "lucia referencia a davo",
+   "views": 22,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/illojuan/clip/LachrymoseHomelyHeronWutFace-8M9fqShVwwqwToK6",
+   "created": 1795552639
   },
   {
    "channel": "kaicenat",
@@ -1426,76 +1466,28 @@
    "created": 1795513702
   },
   {
-   "channel": "stableronaldo",
-   "title": "was won on jupiter ?",
-   "views": 21,
-   "duration": 56.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/RelentlessLongFoxKappa-VKijYDAocvBYcSWa",
-   "created": 1795555004
-  },
-  {
-   "channel": "stableronaldo",
-   "title": "cops pulled up",
-   "views": 21,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/AlluringCrazyPotatoHeyGirl-RS4haeaGjwaE9Rsu",
-   "created": 1795567360
-  },
-  {
    "channel": "missmikkaa",
-   "title": "WOW DILDDDDOOO",
+   "title": "peen jumpscare",
    "views": 21,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/StormyAwkwardCheesecakePlanking-kKyeBAhrcSgy0T3i",
-   "created": 1795548429
+   "url": "https://www.twitch.tv/missmikkaa/clip/BelovedLitigiousBaconWholeWheat-OtZiCtChzVvT-FxX",
+   "created": 1795593173
   },
   {
-   "channel": "illojuan",
-   "title": "lucia referencia a davo",
+   "channel": "joe_bartolozzi",
+   "title": "hgfgfhf",
    "views": 21,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/illojuan/clip/LachrymoseHomelyHeronWutFace-8M9fqShVwwqwToK6",
-   "created": 1795552639
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/AthleticHardOcelotMrDestructoid-PnPCNJASnr2oNL47",
+   "created": 1795523737
   },
   {
-   "channel": "ishowspeed",
-   "title": "speed reatcs to the avengers doomsday trailer",
-   "views": 20,
-   "duration": 53.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/CuteLittleSlothWoofer-JayV1V003iAmcaEN",
-   "created": 1795542454
-  },
-  {
-   "channel": "lacy",
-   "title": "lacy",
-   "views": 20,
-   "duration": 46.0,
-   "url": "https://www.twitch.tv/lacy/clip/ApatheticAlertTeaAliens-P0zG6o33Jf27wx5t",
-   "created": 1795510309
-  },
-  {
-   "channel": "lacy",
-   "title": "hfhakjh",
-   "views": 20,
-   "duration": 35.0,
-   "url": "https://www.twitch.tv/lacy/clip/DeliciousTardySnoodDatSheffy-9eDX1bg79_olDS3J",
-   "created": 1795508844
-  },
-  {
-   "channel": "lacy",
-   "title": "1",
-   "views": 20,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/NeighborlyEsteemedWeaselFloof-wcSdauHoIOgu5uCK",
-   "created": 1795510258
-  },
-  {
-   "channel": "lacy",
-   "title": "jerk",
-   "views": 20,
-   "duration": 42.0,
-   "url": "https://www.twitch.tv/lacy/clip/ZealousRockyMeerkatBleedPurple-qhYlqat4vH4nFuX1",
-   "created": 1795518640
+   "channel": "clix",
+   "title": "noo train lol",
+   "views": 21,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/clix/clip/RichSpikyCrabPastaThat-JJZZQLABQVDmXgOL",
+   "created": 1795537558
   },
   {
    "channel": "illojuan",
@@ -1504,14 +1496,6 @@
    "duration": 40.0,
    "url": "https://www.twitch.tv/illojuan/clip/SaltyCooperativeMartenPhilosoraptor-ozNef-BnBL8R1Mej",
    "created": 1795549613
-  },
-  {
-   "channel": "clix",
-   "title": "noo train lol",
-   "views": 20,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/RichSpikyCrabPastaThat-JJZZQLABQVDmXgOL",
-   "created": 1795537558
   },
   {
    "channel": "kaicenat",
@@ -1523,11 +1507,35 @@
   },
   {
    "channel": "ishowspeed",
+   "title": "Police cahse",
+   "views": 19,
+   "duration": 29.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/BlitheWealthyPrariedogKlappa-Ec1fe7lXma8rh_Ir",
+   "created": 1795551693
+  },
+  {
+   "channel": "ishowspeed",
    "title": "I SHOWSPEED REACTION TO GTA 6 END\ud83d\udcaf",
    "views": 19,
    "duration": 60.0,
    "url": "https://www.twitch.tv/ishowspeed/clip/ClearClearHummingbirdPJSugar-y-QGgb1jiU6e_iyy",
    "created": 1795529997
+  },
+  {
+   "channel": "lacy",
+   "title": "lacy normal voice \ud83e\udd23",
+   "views": 19,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/UnusualAgileLlamaKappaPride-XFuhSV4GVl1EGiEC",
+   "created": 1795566076
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "running low on cash after changing a strippers life",
+   "views": 19,
+   "duration": 18.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/ManlyGorgeousRingDAESuppy-BEmoWzGkBxuBxDDO",
+   "created": 1795535178
   },
   {
    "channel": "illojuan",
@@ -1536,6 +1544,14 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/illojuan/clip/BombasticGlamorousGarbageDoritosChip-rxNHIlZPw7pk_rpa",
    "created": 1795565793
+  },
+  {
+   "channel": "illojuan",
+   "title": "Travis Scott de fondo en GTA VI (\u00e9-pi-co)",
+   "views": 19,
+   "duration": 19.0,
+   "url": "https://www.twitch.tv/illojuan/clip/NaiveBombasticPigeonANELE-czliBTHlY2aCZG99",
+   "created": 1795560586
   },
   {
    "channel": "kaicenat",
@@ -1554,28 +1570,20 @@
    "created": 1795522889
   },
   {
-   "channel": "lacy",
-   "title": "1",
+   "channel": "kaicenat",
+   "title": "yeah",
    "views": 18,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/OutstandingAmazingKaleBCWarrior-zvzbl8PBwKsyK6Ip",
-   "created": 1795510118
+   "url": "https://www.twitch.tv/kaicenat/clip/ShyEntertainingMeerkatLeeroyJenkins-XhIbIgu5h9QovGcO",
+   "created": 1795542428
   },
   {
    "channel": "ishowspeed",
-   "title": "\ud83d\ude02\ud83d\ude02",
-   "views": 17,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/DepressedAltruisticWalletKeepo-FiGJsNOEJqq8wbJq",
-   "created": 1795542081
-  },
-  {
-   "channel": "ishowspeed",
-   "title": "Ishowpeed is live",
-   "views": 17,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/AliveEnchantingBarracudaBudStar-JrGpOzRLt9jIKTw3",
-   "created": 1795545604
+   "title": "Speed river jump GTA 6 (Leonida Radar source)",
+   "views": 18,
+   "duration": 39.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/HardMotionlessDootKappaWealth-QSzX-1JCPeI9sPFE",
+   "created": 1795514801
   },
   {
    "channel": "ishowspeed",
@@ -1587,43 +1595,43 @@
   },
   {
    "channel": "ishowspeed",
-   "title": "Police cahse",
+   "title": "Ishowpeed is live",
    "views": 17,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/BlitheWealthyPrariedogKlappa-Ec1fe7lXma8rh_Ir",
-   "created": 1795551693
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/AliveEnchantingBarracudaBudStar-JrGpOzRLt9jIKTw3",
+   "created": 1795545604
   },
   {
    "channel": "ishowspeed",
-   "title": "Speed river jump GTA 6 (Leonida Radar source)",
+   "title": "\ud83d\ude02\ud83d\ude02",
    "views": 17,
-   "duration": 39.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/HardMotionlessDootKappaWealth-QSzX-1JCPeI9sPFE",
-   "created": 1795514801
+   "duration": 59.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/DepressedAltruisticWalletKeepo-FiGJsNOEJqq8wbJq",
+   "created": 1795542081
   },
   {
    "channel": "lacy",
-   "title": "lacy normal voice \ud83e\udd23",
+   "title": "my brother is looking at food again",
    "views": 17,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/UnusualAgileLlamaKappaPride-XFuhSV4GVl1EGiEC",
-   "created": 1795566076
+   "url": "https://www.twitch.tv/lacy/clip/TalentedCallousTortoiseDoggo-lOB19PfqVPzuZGzX",
+   "created": 1795557084
   },
   {
-   "channel": "missmikkaa",
-   "title": "running low on cash after changing a strippers life",
+   "channel": "lacy",
+   "title": "my brother is looking at food again",
    "views": 17,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/ManlyGorgeousRingDAESuppy-BEmoWzGkBxuBxDDO",
-   "created": 1795535178
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/TalentedCallousTortoiseDoggo-lOB19PfqVPzuZGzX",
+   "created": 1795557084
   },
   {
-   "channel": "illojuan",
-   "title": "Travis Scott de fondo en GTA VI (\u00e9-pi-co)",
+   "channel": "lacy",
+   "title": "Who is WE",
    "views": 17,
-   "duration": 19.0,
-   "url": "https://www.twitch.tv/illojuan/clip/NaiveBombasticPigeonANELE-czliBTHlY2aCZG99",
-   "created": 1795560586
+   "duration": 26.0,
+   "url": "https://www.twitch.tv/lacy/clip/AnimatedPolishedLyrebirdWutFace-cMmO-8dc5vqRZy4E",
+   "created": 1795571613
   },
   {
    "channel": "illojuan",
@@ -1634,12 +1642,12 @@
    "created": 1795519666
   },
   {
-   "channel": "ishowspeed",
-   "title": "oh hell nah",
+   "channel": "tfue",
+   "title": "SNIFFFFFFF",
    "views": 16,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/RacyAmazingRaisinCoolCat-oe4sJsY_RMgGGamT",
-   "created": 1795545821
+   "duration": 19.0,
+   "url": "https://www.twitch.tv/tfue/clip/PlacidSlickWombatM4xHeh-KUrAon0GXTOgM1O4",
+   "created": 1795589630
   },
   {
    "channel": "ishowspeed",
@@ -1651,6 +1659,14 @@
   },
   {
    "channel": "ishowspeed",
+   "title": "oh hell nah",
+   "views": 16,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/RacyAmazingRaisinCoolCat-oe4sJsY_RMgGGamT",
+   "created": 1795545821
+  },
+  {
+   "channel": "ishowspeed",
    "title": "gta 6",
    "views": 16,
    "duration": 30.0,
@@ -1658,12 +1674,28 @@
    "created": 1795542141
   },
   {
+   "channel": "lacy",
+   "title": "hell nahhh",
+   "views": 16,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/lacy/clip/ImportantFilthySparrowBrokeBack-kgoX1o9gZ2HkpZcA",
+   "created": 1795511877
+  },
+  {
+   "channel": "lacy",
+   "title": "he a runna he a trackstarrrr",
+   "views": 16,
+   "duration": 18.0,
+   "url": "https://www.twitch.tv/lacy/clip/ClearTemperedClipsmomYouWHY-6gcHlngPiqbBZqVJ",
+   "created": 1795565472
+  },
+  {
    "channel": "tfue",
-   "title": "SNIFFFFFFF",
+   "title": "EY BRO EY BRO EY BRO NO RAID BY MARKU",
    "views": 15,
-   "duration": 19.0,
-   "url": "https://www.twitch.tv/tfue/clip/PlacidSlickWombatM4xHeh-KUrAon0GXTOgM1O4",
-   "created": 1795589630
+   "duration": 15.0,
+   "url": "https://www.twitch.tv/tfue/clip/TangentialGeniusNeanderthalMingLee-7tNCm2VzbKGRFmqT",
+   "created": 1795583024
   },
   {
    "channel": "ishowspeed",
@@ -1672,6 +1704,14 @@
    "duration": 29.0,
    "url": "https://www.twitch.tv/ishowspeed/clip/CoyTrappedHerringDerp-3zh-561usduvwW31",
    "created": 1795543462
+  },
+  {
+   "channel": "ishowspeed",
+   "title": "speed 7",
+   "views": 15,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/TiredSpoopyYakinikuDuDudu-6iqedtkUommL4pVT",
+   "created": 1795514323
   },
   {
    "channel": "ishowspeed",
@@ -1690,12 +1730,12 @@
    "created": 1795544384
   },
   {
-   "channel": "ishowspeed",
-   "title": "speed 7",
+   "channel": "stableronaldo",
+   "title": "dork",
    "views": 15,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/TiredSpoopyYakinikuDuDudu-6iqedtkUommL4pVT",
-   "created": 1795514323
+   "duration": 13.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/MistyEncouragingAlpacaOpieOP-jtSw6i_EwIAzJt3v",
+   "created": 1795557892
   },
   {
    "channel": "stableronaldo",
@@ -1707,19 +1747,43 @@
   },
   {
    "channel": "lacy",
-   "title": "my brother is looking at food again",
+   "title": ".",
+   "views": 15,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/lacy/clip/SneakyGiftedWerewolfBrainSlug-_WqQE4V9hAYUKaJX",
+   "created": 1795564924
+  },
+  {
+   "channel": "lacy",
+   "title": "Lacy calls maddy not madi",
+   "views": 15,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/lacy/clip/JollySparklyHedgehogHeyGirl-PFO4mNB5QZ_uUmH_",
+   "created": 1795568193
+  },
+  {
+   "channel": "lacy",
+   "title": "ayo lacy why would you say that word",
    "views": 15,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/TalentedCallousTortoiseDoggo-lOB19PfqVPzuZGzX",
-   "created": 1795557084
+   "url": "https://www.twitch.tv/lacy/clip/BenevolentCogentBearCoolCat-nODzUCRRmWvV9Ds9",
+   "created": 1795571935
   },
   {
    "channel": "tfue",
-   "title": "EY BRO EY BRO EY BRO NO RAID BY MARKU",
+   "title": "trout",
    "views": 14,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/tfue/clip/TangentialGeniusNeanderthalMingLee-7tNCm2VzbKGRFmqT",
-   "created": 1795583024
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/tfue/clip/CoyBlindingClipsdadOpieOP-dI1iDH_T4TrTWskQ",
+   "created": 1795541784
+  },
+  {
+   "channel": "ishowspeed",
+   "title": "speed vs kai  live",
+   "views": 14,
+   "duration": 51.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/HonestTubularOxPanicBasket-UbOpqDvhPZUZkqxv",
+   "created": 1795545866
   },
   {
    "channel": "ishowspeed",
@@ -1730,28 +1794,36 @@
    "created": 1795512658
   },
   {
-   "channel": "ishowspeed",
-   "title": "raul",
+   "channel": "stableronaldo",
+   "title": "Ron FaceTimes Jynxzi! \ud83d\ude02",
    "views": 14,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/ishowspeed/clip/ColdbloodedSmokyDuckRuleFive-h1i1B3xILscQnRtX",
-   "created": 1795515226
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/ScaryArtisticLardArgieB8-Gqtl9cjc1GVh7FRE",
+   "created": 1795555256
   },
   {
    "channel": "lacy",
-   "title": "woow",
+   "title": "group tries to enter silky and lacy car",
    "views": 14,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/CuteResourcefulPineappleHumbleLife-ywgvSJ0A5KpGzVTC",
-   "created": 1795510213
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/lacy/clip/ObliqueCaringFrogEleGiggle-hBbiEvyfc4vJiLjZ",
+   "created": 1795571005
   },
   {
-   "channel": "missmikkaa",
-   "title": "scare",
+   "channel": "lacy",
+   "title": "Lacy puts em to sleep",
    "views": 14,
-   "duration": 42.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/HonorableSassyCardPrimeMe-EuXSl5KMJUKNdpox",
-   "created": 1795551706
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/HedonisticCrazyFriseeFUNgineer-QgB6-UICfNibHpbW",
+   "created": 1795539748
+  },
+  {
+   "channel": "lacy",
+   "title": "ayoo twin",
+   "views": 14,
+   "duration": 16.0,
+   "url": "https://www.twitch.tv/lacy/clip/PiercingDullEmuSaltBae-okdT9fWstcNVnznU",
+   "created": 1795569844
   },
   {
    "channel": "missmikkaa",
@@ -1763,11 +1835,27 @@
   },
   {
    "channel": "missmikkaa",
+   "title": "MissMikkaa did NOT expect this",
+   "views": 14,
+   "duration": 35.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/InventiveCrypticEelRedCoat-19d2kMMFYC2TpnBW",
+   "created": 1795535057
+  },
+  {
+   "channel": "missmikkaa",
    "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
    "views": 14,
    "duration": 60.0,
    "url": "https://www.twitch.tv/missmikkaa/clip/SincereWonderfulAnacondaKevinTurtle-Vu5-zv9taUJ1x19m",
    "created": 1795535163
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "1",
+   "views": 14,
+   "duration": 42.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/AthleticGiantCrabsResidentSleeper-15tZuG4qLmERIsQg",
+   "created": 1795531266
   },
   {
    "channel": "illojuan",
@@ -1776,14 +1864,6 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/illojuan/clip/KnottyTenuousRhinocerosCclamChamp-vfQt8YnQOFf3NotC",
    "created": 1795534998
-  },
-  {
-   "channel": "tfue",
-   "title": "trout",
-   "views": 13,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/tfue/clip/CoyBlindingClipsdadOpieOP-dI1iDH_T4TrTWskQ",
-   "created": 1795541784
   },
   {
    "channel": "hutchmf",
@@ -1795,11 +1875,11 @@
   },
   {
    "channel": "stableronaldo",
-   "title": "dork",
+   "title": "3",
    "views": 13,
-   "duration": 13.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/MistyEncouragingAlpacaOpieOP-jtSw6i_EwIAzJt3v",
-   "created": 1795557892
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/AverageSourAxeKlappa-S0H0Ri_JY1UvBUQq",
+   "created": 1795557786
   },
   {
    "channel": "stableronaldo",
@@ -1811,14 +1891,6 @@
   },
   {
    "channel": "stableronaldo",
-   "title": "Ron FaceTimes Jynxzi! \ud83d\ude02",
-   "views": 13,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/ScaryArtisticLardArgieB8-Gqtl9cjc1GVh7FRE",
-   "created": 1795555256
-  },
-  {
-   "channel": "stableronaldo",
    "title": "stuff hapend",
    "views": 13,
    "duration": 30.0,
@@ -1827,43 +1899,27 @@
   },
   {
    "channel": "lacy",
-   "title": "he a runna he a trackstarrrr",
+   "title": "WE IN MIAMI",
    "views": 13,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/lacy/clip/ClearTemperedClipsmomYouWHY-6gcHlngPiqbBZqVJ",
-   "created": 1795565472
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/TenderPerfectOwlResidentSleeper-phGqXQK8hl04LM2k",
+   "created": 1795552387
   },
   {
    "channel": "lacy",
-   "title": "Who is WE",
+   "title": "the ending",
    "views": 13,
-   "duration": 26.0,
-   "url": "https://www.twitch.tv/lacy/clip/AnimatedPolishedLyrebirdWutFace-cMmO-8dc5vqRZy4E",
-   "created": 1795571613
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/SweetThoughtfulPassionfruitGingerPower-RQzTQW4rSztsV28D",
+   "created": 1795531739
   },
   {
-   "channel": "lacy",
-   "title": "hell nahhh",
+   "channel": "jasontheween",
+   "title": "pilgrim",
    "views": 13,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/lacy/clip/ImportantFilthySparrowBrokeBack-kgoX1o9gZ2HkpZcA",
-   "created": 1795511877
-  },
-  {
-   "channel": "lacy",
-   "title": "Lacy calls maddy not madi",
-   "views": 13,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/lacy/clip/JollySparklyHedgehogHeyGirl-PFO4mNB5QZ_uUmH_",
-   "created": 1795568193
-  },
-  {
-   "channel": "missmikkaa",
-   "title": "MissMikkaa did NOT expect this",
-   "views": 13,
-   "duration": 35.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/InventiveCrypticEelRedCoat-19d2kMMFYC2TpnBW",
-   "created": 1795535057
+   "duration": 37.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/ZanySaltyAsteriskLeeroyJenkins-pQUINXMfFgGCdgG9",
+   "created": 1795557677
   },
   {
    "channel": "illojuan",
@@ -1882,6 +1938,14 @@
    "created": 1795545891
   },
   {
+   "channel": "illojuan",
+   "title": "susto",
+   "views": 13,
+   "duration": 25.0,
+   "url": "https://www.twitch.tv/illojuan/clip/HeartlessAmericanBoarImGlitch-rPCiXlriETdAkqCa",
+   "created": 1795550213
+  },
+  {
    "channel": "nickmercs",
    "title": "Nick did what!?, did he really have to go?",
    "views": 12,
@@ -1891,27 +1955,19 @@
   },
   {
    "channel": "stableronaldo",
-   "title": "fork",
-   "views": 12,
-   "duration": 7.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/DullVenomousDillM4xHeh-mLKUgFyL3VAUzgGv",
-   "created": 1795565164
-  },
-  {
-   "channel": "stableronaldo",
-   "title": "3",
-   "views": 12,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/AverageSourAxeKlappa-S0H0Ri_JY1UvBUQq",
-   "created": 1795557786
-  },
-  {
-   "channel": "stableronaldo",
    "title": "Stable ronaldo thinks he's as good looking as marlon",
    "views": 12,
    "duration": 27.0,
    "url": "https://www.twitch.tv/stableronaldo/clip/TardyTenderYamRlyTho-P-sMfCRbfNlk0bOD",
    "created": 1795521973
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "fork",
+   "views": 12,
+   "duration": 7.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/DullVenomousDillM4xHeh-mLKUgFyL3VAUzgGv",
+   "created": 1795565164
   },
   {
    "channel": "teegrizzley",
@@ -1923,51 +1979,27 @@
   },
   {
    "channel": "lacy",
-   "title": "group tries to enter silky and lacy car",
-   "views": 12,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/lacy/clip/ObliqueCaringFrogEleGiggle-hBbiEvyfc4vJiLjZ",
-   "created": 1795571005
-  },
-  {
-   "channel": "lacy",
-   "title": "ragebait",
-   "views": 12,
-   "duration": 28.0,
-   "url": "https://www.twitch.tv/lacy/clip/RealAlluringPlumberPeoplesChamp-IK-vCGRy9ZdywaIX",
-   "created": 1795508715
-  },
-  {
-   "channel": "lacy",
-   "title": "bruv",
-   "views": 12,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/lacy/clip/OilyElegantBillMingLee-RCwoSkLhqQWxOXdg",
-   "created": 1795510194
-  },
-  {
-   "channel": "lacy",
-   "title": "ayoo twin",
-   "views": 12,
-   "duration": 16.0,
-   "url": "https://www.twitch.tv/lacy/clip/PiercingDullEmuSaltBae-okdT9fWstcNVnznU",
-   "created": 1795569844
-  },
-  {
-   "channel": "lacy",
-   "title": "Lacy puts em to sleep",
+   "title": "lacy",
    "views": 12,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/HedonisticCrazyFriseeFUNgineer-QgB6-UICfNibHpbW",
-   "created": 1795539748
+   "url": "https://www.twitch.tv/lacy/clip/QuaintMistyNeanderthalFloof-1nP9_HiWtU839eC7",
+   "created": 1795568800
   },
   {
-   "channel": "illojuan",
-   "title": "susto",
+   "channel": "lacy",
+   "title": "lacy finally plays GTA after years",
    "views": 12,
-   "duration": 25.0,
-   "url": "https://www.twitch.tv/illojuan/clip/HeartlessAmericanBoarImGlitch-rPCiXlriETdAkqCa",
-   "created": 1795550213
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/TameFancyLocustYouWHY-10OYe7Fyyg6WUqdQ",
+   "created": 1795545693
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "joe scream after almost dying robbing",
+   "views": 12,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/HorribleKindPizzaTwitchRPG-H3gKXaXhJb6HEgUE",
+   "created": 1795558152
   },
   {
    "channel": "nickmercs",
@@ -1978,6 +2010,14 @@
    "created": 1795544506
   },
   {
+   "channel": "tfue",
+   "title": "...",
+   "views": 11,
+   "duration": 18.0,
+   "url": "https://www.twitch.tv/tfue/clip/BelovedViscousChickenPlanking-xWqDtNLWoPyE5ChA",
+   "created": 1795523051
+  },
+  {
    "channel": "hutchmf",
    "title": "Stop!! IT DOESN'T MATCH YOUR OUTFIT AT ALL!!",
    "views": 11,
@@ -1986,28 +2026,44 @@
    "created": 1795556478
   },
   {
-   "channel": "lacy",
-   "title": "ayo lacy why would you say that word",
+   "channel": "stableronaldo",
+   "title": "stable ronaldo says he got lice",
    "views": 11,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/BenevolentCogentBearCoolCat-nODzUCRRmWvV9Ds9",
-   "created": 1795571935
+   "url": "https://www.twitch.tv/stableronaldo/clip/ExcitedVenomousCroquetteLeeroyJenkins-RtHlOfbgAD03FEgw",
+   "created": 1795562838
   },
   {
-   "channel": "lacy",
-   "title": "the ending",
+   "channel": "jasontheween",
+   "title": "a",
    "views": 11,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/SweetThoughtfulPassionfruitGingerPower-RQzTQW4rSztsV28D",
-   "created": 1795531739
+   "duration": 50.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/AgitatedCloudyCocoaBleedPurple-j5fPnVMvJ_2a86cy",
+   "created": 1795585652
   },
   {
-   "channel": "lacy",
-   "title": "lmao",
+   "channel": "jasontheween",
+   "title": "bro is getting wild of the police",
    "views": 11,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/lacy/clip/ZanyLongPlumVoHiYo-Hq3wJlKlrST3K6Z8",
-   "created": 1795572233
+   "url": "https://www.twitch.tv/jasontheween/clip/DifferentInspiringPelicanBCWarrior-_DGlAi5c0hrEtaiu",
+   "created": 1795572507
+  },
+  {
+   "channel": "jasontheween",
+   "title": "a",
+   "views": 11,
+   "duration": 26.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/SpookyBoringSoymilkHeyGirl-kfApk3JN5fGGsLmI",
+   "created": 1795521977
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "views": 11,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/ChillyCrepuscularGiraffeHeyGirl-uOmWReu3k8-wITCu",
+   "created": 1795546863
   },
   {
    "channel": "illojuan",
@@ -2034,12 +2090,68 @@
    "created": 1795538738
   },
   {
-   "channel": "missmikkaa",
-   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "channel": "tfue",
+   "title": "hard r",
    "views": 10,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/ChillyCrepuscularGiraffeHeyGirl-uOmWReu3k8-wITCu",
-   "created": 1795546863
+   "url": "https://www.twitch.tv/tfue/clip/TalentedSuccessfulStorkFeelsBadMan-Tf0SziuSrMqBtsvw",
+   "created": 1795526722
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "Girl trolled stable ronaldo",
+   "views": 10,
+   "duration": 18.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/IgnorantMushyAntBCouch-FcWPPz4IPISJDetz",
+   "created": 1795567536
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "addition",
+   "views": 10,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/SincereCheerfulIcecreamPeteZarollTie-qGDmc_jNw_q175i7",
+   "created": 1795561645
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "UNC shows age",
+   "views": 10,
+   "duration": 21.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/TenuousSleepyUdonPeanutButterJellyTime-pCWpEiOd7gdf6pn_",
+   "created": 1795541421
+  },
+  {
+   "channel": "lacy",
+   "title": "b",
+   "views": 10,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/AmusedScrumptiousOcelotYouDontSay-lihkXOPRkZY6PZFm",
+   "created": 1795560158
+  },
+  {
+   "channel": "jasontheween",
+   "title": "burger LMFAO",
+   "views": 10,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/WrongSucculentReindeerLitty-MMvs55P4kx5frP96",
+   "created": 1795535448
+  },
+  {
+   "channel": "jasontheween",
+   "title": "dub cap",
+   "views": 10,
+   "duration": 40.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/CleanHealthyKuduRaccAttack-2NvdI_5StPOiSyE5",
+   "created": 1795533237
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "JoeINLOVEwithLuciii",
+   "views": 10,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/DistinctWimpySamosaUWot-rdSsY7PHaCL_3xk2",
+   "created": 1795545945
   },
   {
    "channel": "illojuan",
@@ -2048,6 +2160,22 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/illojuan/clip/CarefulSullenWaffleTwitchRPG-dz9-FnA6Yzo839y6",
    "created": 1795538703
+  },
+  {
+   "channel": "illojuan",
+   "title": ".",
+   "views": 10,
+   "duration": 38.0,
+   "url": "https://www.twitch.tv/illojuan/clip/AttractiveFriendlyBottlePraiseIt-rDCyBzpUhFp6bPEm",
+   "created": 1795562015
+  },
+  {
+   "channel": "timthetatman",
+   "title": "Tim meets SuperBoo",
+   "views": 10,
+   "duration": 49.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/CreativeTrappedLegRalpherZ-NA5R9ZHfvh33dl6N",
+   "created": 1795577495
   },
   {
    "channel": "timthetatman",
@@ -2067,19 +2195,27 @@
   },
   {
    "channel": "tfue",
-   "title": "hard r",
+   "title": "hard r rip by big T",
    "views": 9,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/tfue/clip/TalentedSuccessfulStorkFeelsBadMan-Tf0SziuSrMqBtsvw",
-   "created": 1795526722
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/tfue/clip/LitigiousYummyPistachioNerfBlueBlaster-lmO-oYBdkl2iIa9t",
+   "created": 1795589412
   },
   {
    "channel": "tfue",
-   "title": "...",
+   "title": "lol",
    "views": 9,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/tfue/clip/BelovedViscousChickenPlanking-xWqDtNLWoPyE5ChA",
-   "created": 1795523051
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/tfue/clip/TrappedMuddyDillBleedPurple-VD8gblfmDYJWv9N6",
+   "created": 1795518684
+  },
+  {
+   "channel": "tfue",
+   "title": "this game isnt real",
+   "views": 9,
+   "duration": 16.0,
+   "url": "https://www.twitch.tv/tfue/clip/PluckyTsundereBulgogiMcaT-mjpGclek-bpH-5w8",
+   "created": 1795528915
   },
   {
    "channel": "hutchmf",
@@ -2088,30 +2224,6 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/hutchmf/clip/SoftCrackyMochaHassaanChop-kQVPTM-casDDQ4gJ",
    "created": 1795530663
-  },
-  {
-   "channel": "stableronaldo",
-   "title": "addition",
-   "views": 9,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/SincereCheerfulIcecreamPeteZarollTie-qGDmc_jNw_q175i7",
-   "created": 1795561645
-  },
-  {
-   "channel": "stableronaldo",
-   "title": "UNC shows age",
-   "views": 9,
-   "duration": 21.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/TenuousSleepyUdonPeanutButterJellyTime-pCWpEiOd7gdf6pn_",
-   "created": 1795541421
-  },
-  {
-   "channel": "stableronaldo",
-   "title": "Nahhhhhhh Jason",
-   "views": 9,
-   "duration": 20.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/ChillyAggressiveUdonCharlieBitMe-50q1GtrEa2li8Cyf",
-   "created": 1795558606
   },
   {
    "channel": "stableronaldo",
@@ -2130,12 +2242,60 @@
    "created": 1795558731
   },
   {
+   "channel": "stableronaldo",
+   "title": "Nahhhhhhh Jason",
+   "views": 9,
+   "duration": 20.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/ChillyAggressiveUdonCharlieBitMe-50q1GtrEa2li8Cyf",
+   "created": 1795558606
+  },
+  {
+   "channel": "lacy",
+   "title": "Jason arrestation",
+   "views": 9,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/ScaryDeterminedAlbatrossTwitchRPG-H_WLr_VcLR0tAUFl",
+   "created": 1795532018
+  },
+  {
+   "channel": "jasontheween",
+   "title": "10",
+   "views": 9,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/BitterZanyStorkCoolCat-4Ju6K8foUDZv81Rq",
+   "created": 1795531227
+  },
+  {
    "channel": "missmikkaa",
    "title": "Lucia follows Roxy through the night streets in the car with purple underglow",
    "views": 9,
    "duration": 60.0,
    "url": "https://www.twitch.tv/missmikkaa/clip/ProductiveRealFlamingoPermaSmug-gln5XaMqn15Xbx2B",
    "created": 1795554066
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "chat lost it here",
+   "views": 9,
+   "duration": 35.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/ObeseJollyBasenjiM4xHeh-CSo2GoaTYUubp9th",
+   "created": 1795535116
+  },
+  {
+   "channel": "illojuan",
+   "title": ".",
+   "views": 9,
+   "duration": 48.0,
+   "url": "https://www.twitch.tv/illojuan/clip/DaintyAbnegateSalmonGrammarKing-_8WI1ln9ok6RROuZ",
+   "created": 1795559504
+  },
+  {
+   "channel": "illojuan",
+   "title": "GTA IV REFERENCIA",
+   "views": 9,
+   "duration": 20.0,
+   "url": "https://www.twitch.tv/illojuan/clip/TubularNiceTubersPipeHype-M2Uq2fzpIKps5qRF",
+   "created": 1795522628
   },
   {
    "channel": "illojuan",
@@ -2147,27 +2307,11 @@
   },
   {
    "channel": "illojuan",
-   "title": "LUC\u00cdA CAMINOS \ud83d\ude47\ud83c\udffb\u200d\u2642\ufe0f MI MAMI \ud83e\udd7a LELE PANXA \ud83d\udc76\ud83c\udffb joder qu\u00e9 verg\u00fcenza de t\u00edtulo lo siento - Grand Theft Auto VI #5",
+   "title": "ovni",
    "views": 9,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/illojuan/clip/FancyUnusualDinosaurThunBeast-h0iwEEbOsaZUB2Rs",
-   "created": 1795507255
-  },
-  {
-   "channel": "timthetatman",
-   "title": "Tim meets SuperBoo",
-   "views": 9,
-   "duration": 49.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/CreativeTrappedLegRalpherZ-NA5R9ZHfvh33dl6N",
-   "created": 1795577495
-  },
-  {
-   "channel": "timthetatman",
-   "title": "lmao",
-   "views": 9,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/OptimisticSpinelessBasenjiDoggo-cGK_wBZ4lLeQB9gU",
-   "created": 1795538524
+   "duration": 45.0,
+   "url": "https://www.twitch.tv/illojuan/clip/SourPlumpPigeonSuperVinlin-J4uw-uHBPEyLi8xY",
+   "created": 1795533947
   },
   {
    "channel": "timthetatman",
@@ -2176,6 +2320,14 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/timthetatman/clip/ShinyCleverCurryAMPTropPunch-4odq8WpT9YAJfEEH",
    "created": 1795577122
+  },
+  {
+   "channel": "timthetatman",
+   "title": "lmao",
+   "views": 9,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/OptimisticSpinelessBasenjiDoggo-cGK_wBZ4lLeQB9gU",
+   "created": 1795538524
   },
   {
    "channel": "nickmercs",
@@ -2187,19 +2339,35 @@
   },
   {
    "channel": "tfue",
-   "title": "lol",
+   "title": "question answered",
    "views": 8,
-   "duration": 5.0,
-   "url": "https://www.twitch.tv/tfue/clip/TrappedMuddyDillBleedPurple-VD8gblfmDYJWv9N6",
-   "created": 1795518684
+   "duration": 15.0,
+   "url": "https://www.twitch.tv/tfue/clip/HelplessBrainyGorillaDendiFace-gZIXdj5CwuC4Q00l",
+   "created": 1795524011
   },
   {
    "channel": "tfue",
-   "title": "this game isnt real",
+   "title": "xit",
    "views": 8,
-   "duration": 16.0,
-   "url": "https://www.twitch.tv/tfue/clip/PluckyTsundereBulgogiMcaT-mjpGclek-bpH-5w8",
-   "created": 1795528915
+   "duration": 23.0,
+   "url": "https://www.twitch.tv/tfue/clip/FreezingCheerfulCoyoteDatBoi-pp2uE2ujcntka0vb",
+   "created": 1795525518
+  },
+  {
+   "channel": "tfue",
+   "title": "tfue",
+   "views": 8,
+   "duration": 13.0,
+   "url": "https://www.twitch.tv/tfue/clip/LitigiousFancyFoxTwitchRPG-U9hog5NzzOUva4Du",
+   "created": 1795526695
+  },
+  {
+   "channel": "stableronaldo",
+   "title": "scammed",
+   "views": 8,
+   "duration": 26.0,
+   "url": "https://www.twitch.tv/stableronaldo/clip/ElegantDarlingVelociraptorThunBeast-NBsOPuP0202Np-L-",
+   "created": 1795566122
   },
   {
    "channel": "stableronaldo",
@@ -2210,28 +2378,12 @@
    "created": 1795558981
   },
   {
-   "channel": "stableronaldo",
-   "title": "yy",
+   "channel": "teegrizzley",
+   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
    "views": 8,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/RelievedElatedSangPraiseIt-VpyjuTUJEy_P1p0n",
-   "created": 1795560330
-  },
-  {
-   "channel": "stableronaldo",
-   "title": "w emma",
-   "views": 8,
-   "duration": 47.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/HumbleCooperativeSkunkRuleFive-Kn2E_oKLfJnApq2q",
-   "created": 1795565258
-  },
-  {
-   "channel": "stableronaldo",
-   "title": "Girl trolled stable ronaldo",
-   "views": 8,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/stableronaldo/clip/IgnorantMushyAntBCouch-FcWPPz4IPISJDetz",
-   "created": 1795567536
+   "url": "https://www.twitch.tv/teegrizzley/clip/IncredulousInspiringFoxPeteZarollTie-aRoMC9BiYsKBlv1C",
+   "created": 1795574218
   },
   {
    "channel": "teegrizzley",
@@ -2242,28 +2394,84 @@
    "created": 1795574573
   },
   {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
+   "channel": "lacy",
+   "title": "WE IN MIAMI",
    "views": 8,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/IncredulousInspiringFoxPeteZarollTie-aRoMC9BiYsKBlv1C",
-   "created": 1795574218
+   "url": "https://www.twitch.tv/lacy/clip/MildAdorableHumanArgieB8-KQgEjSvfYj9Fwx0g",
+   "created": 1795573098
   },
   {
-   "channel": "illojuan",
-   "title": "ovni",
+   "channel": "lacy",
+   "title": "Lacy and Sily eating a glizzy together LOL",
    "views": 8,
-   "duration": 45.0,
-   "url": "https://www.twitch.tv/illojuan/clip/SourPlumpPigeonSuperVinlin-J4uw-uHBPEyLi8xY",
-   "created": 1795533947
+   "duration": 50.0,
+   "url": "https://www.twitch.tv/lacy/clip/PeppyEnticingHamNomNom-A_KGB6Kz0X81J1fl",
+   "created": 1795573631
   },
   {
-   "channel": "illojuan",
-   "title": ".",
+   "channel": "lacy",
+   "title": "Lacy Restarts His Game For A Fan",
    "views": 8,
-   "duration": 38.0,
-   "url": "https://www.twitch.tv/illojuan/clip/AttractiveFriendlyBottlePraiseIt-rDCyBzpUhFp6bPEm",
-   "created": 1795562015
+   "duration": 47.0,
+   "url": "https://www.twitch.tv/lacy/clip/JollyArtsyKumquatTF2John-EH3O2RMs1Y2C96tj",
+   "created": 1795516369
+  },
+  {
+   "channel": "lacy",
+   "title": "g",
+   "views": 8,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/lacy/clip/InexpensiveMoralPancakeNotATK-4jxketTJpdq4PtuL",
+   "created": 1795537125
+  },
+  {
+   "channel": "jasontheween",
+   "title": "pt1",
+   "views": 8,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/SingleKindJalapenoSmoocherZ-hwI8Wlk4HK3Zkpjm",
+   "created": 1795557776
+  },
+  {
+   "channel": "agent00",
+   "title": "s",
+   "views": 8,
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/agent00/clip/SplendidSpookyRaisin4Head-B8vASvQ3HmBlicm8",
+   "created": 1795554521
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "gta",
+   "views": 8,
+   "duration": 28.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/BrightDepressedBillTwitchRaid-azt3zRWFgRaJuHhN",
+   "created": 1795565014
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "asdasda",
+   "views": 8,
+   "duration": 7.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/RelentlessRelatedOryxBloodTrail-p0in4xXbsMXsD3_s",
+   "created": 1795522770
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "got scared",
+   "views": 8,
+   "duration": 27.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/SoftEntertainingCodFutureMan-N4mAyvsjPsOvJw-X",
+   "created": 1795562799
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "not violent",
+   "views": 8,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/CogentSmilingQuailFeelsBadMan-yQDl8j-NGNwrLWnY",
+   "created": 1795554554
   },
   {
    "channel": "illojuan",
@@ -2274,28 +2482,12 @@
    "created": 1795567802
   },
   {
-   "channel": "illojuan",
-   "title": ".",
-   "views": 8,
-   "duration": 48.0,
-   "url": "https://www.twitch.tv/illojuan/clip/DaintyAbnegateSalmonGrammarKing-_8WI1ln9ok6RROuZ",
-   "created": 1795559504
-  },
-  {
    "channel": "clix",
    "title": "23",
    "views": 8,
    "duration": 49.0,
    "url": "https://www.twitch.tv/clix/clip/HealthyVenomousLEDBigBrother-d-zzXaakcEM9KQoC",
    "created": 1795579560
-  },
-  {
-   "channel": "clix",
-   "title": "Clix 52-KILL Victory Royale in Squad Victory Cup",
-   "views": 8,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/clix/clip/SmokyDeafAdminDendiFace-gl2VwTAtvWsBqcGe",
-   "created": 1795507676
   },
   {
    "channel": "nickmercs",
@@ -2306,30 +2498,6 @@
    "created": 1795526763
   },
   {
-   "channel": "tfue",
-   "title": "tfue",
-   "views": 7,
-   "duration": 13.0,
-   "url": "https://www.twitch.tv/tfue/clip/LitigiousFancyFoxTwitchRPG-U9hog5NzzOUva4Du",
-   "created": 1795526695
-  },
-  {
-   "channel": "tfue",
-   "title": "xit",
-   "views": 7,
-   "duration": 23.0,
-   "url": "https://www.twitch.tv/tfue/clip/FreezingCheerfulCoyoteDatBoi-pp2uE2ujcntka0vb",
-   "created": 1795525518
-  },
-  {
-   "channel": "tfue",
-   "title": "question answered",
-   "views": 7,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/tfue/clip/HelplessBrainyGorillaDendiFace-gZIXdj5CwuC4Q00l",
-   "created": 1795524011
-  },
-  {
    "channel": "hutchmf",
    "title": "Next big UK rapper",
    "views": 7,
@@ -2338,12 +2506,36 @@
    "created": 1795544947
   },
   {
-   "channel": "agent00",
-   "title": "s",
+   "channel": "jasontheween",
+   "title": "a",
    "views": 7,
-   "duration": 5.0,
-   "url": "https://www.twitch.tv/agent00/clip/SplendidSpookyRaisin4Head-B8vASvQ3HmBlicm8",
-   "created": 1795554521
+   "duration": 46.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/LachrymoseRichRadishLeeroyJenkins-6ArO0BlyJW0xDUqF",
+   "created": 1795585162
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "views": 7,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/PrettyPlainPepperoniTheTarFu-XOea9Q9_PBDZfouy",
+   "created": 1795551359
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Joe yells at chat pt 1",
+   "views": 7,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/BenevolentKawaiiGoatRiPepperonis-epMbx7gCKoA3WxG6",
+   "created": 1795574327
+  },
+  {
+   "channel": "illojuan",
+   "title": "DOMINGOS DOM\u00cdNGUEZ \ud83d\udd25 D\u00cdA 4/450 DE JUEGO \ud83d\ude94 RUSHEAD\u00d3N \ud83d\udea8 - Grand Theft Auto VI #4",
+   "views": 7,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/illojuan/clip/HumbleLovelySproutFunRun-6X_UneM2ak-FADp9",
+   "created": 1795536849
   },
   {
    "channel": "nickmercs",
@@ -2371,14 +2563,6 @@
   },
   {
    "channel": "tfue",
-   "title": "uj",
-   "views": 6,
-   "duration": 42.0,
-   "url": "https://www.twitch.tv/tfue/clip/SpotlessShyScorpionTebowing-udIhS5xIod6z70S5",
-   "created": 1795579938
-  },
-  {
-   "channel": "tfue",
    "title": "lol",
    "views": 6,
    "duration": 13.0,
@@ -2387,11 +2571,19 @@
   },
   {
    "channel": "tfue",
-   "title": "hard r rip by big T",
+   "title": "uj",
    "views": 6,
-   "duration": 5.0,
-   "url": "https://www.twitch.tv/tfue/clip/LitigiousYummyPistachioNerfBlueBlaster-lmO-oYBdkl2iIa9t",
-   "created": 1795589412
+   "duration": 42.0,
+   "url": "https://www.twitch.tv/tfue/clip/SpotlessShyScorpionTebowing-udIhS5xIod6z70S5",
+   "created": 1795579938
+  },
+  {
+   "channel": "tfue",
+   "title": "yolo",
+   "views": 6,
+   "duration": 29.0,
+   "url": "https://www.twitch.tv/tfue/clip/BravePlayfulGrouseDoubleRainbow-ODAbPTDsL-0sxvxJ",
+   "created": 1795583184
   },
   {
    "channel": "teegrizzley",
@@ -2402,12 +2594,20 @@
    "created": 1795547498
   },
   {
-   "channel": "missmikkaa",
-   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "channel": "jasontheween",
+   "title": "jason loses progress",
    "views": 6,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/ShyRelatedShrimpCorgiDerp-dcL4N9OB0wg1q_kn",
-   "created": 1795541964
+   "duration": 43.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/PlayfulPunchyPeachFunRun-aDZUrneJl-pb2Zep",
+   "created": 1795586306
+  },
+  {
+   "channel": "jasontheween",
+   "title": "a",
+   "views": 6,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/ColdbloodedRockyLEDLitFam-VbSFkLYhA6PjZ5xf",
+   "created": 1795584366
   },
   {
    "channel": "missmikkaa",
@@ -2416,6 +2616,14 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/missmikkaa/clip/MotionlessOddCrocodileTTours-cHpd_thZ7yIFDtja",
    "created": 1795554169
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "views": 6,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/ShyRelatedShrimpCorgiDerp-dcL4N9OB0wg1q_kn",
+   "created": 1795541964
   },
   {
    "channel": "missmikkaa",
@@ -2430,8 +2638,32 @@
    "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
    "views": 6,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/PrettyPlainPepperoniTheTarFu-XOea9Q9_PBDZfouy",
-   "created": 1795551359
+   "url": "https://www.twitch.tv/missmikkaa/clip/PlacidObliviousLadiesKlappa-WgpSrqVL8LTrJ0_-",
+   "created": 1795534881
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "MissMikkaa blows Lucia's money at the strip club",
+   "views": 6,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/SpeedyUninterestedBasenjiCclamChamp-SYUYH6wuKBHG72ni",
+   "created": 1795535443
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "views": 6,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/NiceUnsightlyWaterTakeNRG-XfPdkXn10JhltygS",
+   "created": 1795548212
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "views": 6,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/HealthyColdbloodedLegSpicyBoy-rXTQW6zeSaAiTsok",
+   "created": 1795563375
   },
   {
    "channel": "illojuan",
@@ -2443,27 +2675,11 @@
   },
   {
    "channel": "illojuan",
-   "title": "GTA IV REFERENCIA",
-   "views": 6,
-   "duration": 20.0,
-   "url": "https://www.twitch.tv/illojuan/clip/TubularNiceTubersPipeHype-M2Uq2fzpIKps5qRF",
-   "created": 1795522628
-  },
-  {
-   "channel": "illojuan",
-   "title": "DOMINGOS DOM\u00cdNGUEZ \ud83d\udd25 D\u00cdA 4/450 DE JUEGO \ud83d\ude94 RUSHEAD\u00d3N \ud83d\udea8 - Grand Theft Auto VI #4",
+   "title": "l\u00ednea de transici\u00f3n",
    "views": 6,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/illojuan/clip/HumbleLovelySproutFunRun-6X_UneM2ak-FADp9",
-   "created": 1795536849
-  },
-  {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 5,
-   "duration": 56.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/FlirtySpunkyShieldAMPEnergy-Ml8MpY3HBwdbOT-y",
-   "created": 1795529683
+   "url": "https://www.twitch.tv/illojuan/clip/CallousSuavePartridgePupper-TNqcxa4of-V-L5c1",
+   "created": 1795568906
   },
   {
    "channel": "nickmercs",
@@ -2474,28 +2690,20 @@
    "created": 1795551293
   },
   {
+   "channel": "nickmercs",
+   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "views": 5,
+   "duration": 56.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/FlirtySpunkyShieldAMPEnergy-Ml8MpY3HBwdbOT-y",
+   "created": 1795529683
+  },
+  {
    "channel": "tfue",
-   "title": "lol",
+   "title": "LOL",
    "views": 5,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/tfue/clip/StrangeBombasticPicklesDerp-iT1M4SZ_oczLMB-i",
-   "created": 1795580916
-  },
-  {
-   "channel": "hutchmf",
-   "title": "HARDY HAR HAR!!!!",
-   "views": 5,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/JoyousSnappySaladTinyFace-XvB-Tc4fRkYoSxBI",
-   "created": 1795564459
-  },
-  {
-   "channel": "hutchmf",
-   "title": "Aight then",
-   "views": 5,
-   "duration": 39.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/GorgeousSparklingFungusBibleThump-x7PjEywwFierUHJO",
-   "created": 1795560811
+   "duration": 16.0,
+   "url": "https://www.twitch.tv/tfue/clip/OnerousSourKuduFreakinStinkin-XrRmZwuyVroHBOIB",
+   "created": 1795580485
   },
   {
    "channel": "hutchmf",
@@ -2507,11 +2715,19 @@
   },
   {
    "channel": "hutchmf",
-   "title": "GTA VI RP Ready Player One",
+   "title": "Word of Wisdom",
+   "views": 5,
+   "duration": 28.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/PolishedMoldyDinosaurRickroll-jUQFfUH8vG6Vs63d",
+   "created": 1795563832
+  },
+  {
+   "channel": "hutchmf",
+   "title": "Annnnnd there it is",
    "views": 5,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/WonderfulBenevolentClamWow-jzA0YcVsB7LalW2T",
-   "created": 1795531561
+   "url": "https://www.twitch.tv/hutchmf/clip/SpookyDignifiedRedpandaYouDontSay-_lAuDAvpNsCmWKGn",
+   "created": 1795557764
   },
   {
    "channel": "hutchmf",
@@ -2520,6 +2736,14 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/hutchmf/clip/InexpensiveAmericanLocustGrammarKing-znz6beUyyPQkD1Ae",
    "created": 1795560708
+  },
+  {
+   "channel": "hutchmf",
+   "title": "HARDY HAR HAR!!!!",
+   "views": 5,
+   "duration": 15.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/JoyousSnappySaladTinyFace-XvB-Tc4fRkYoSxBI",
+   "created": 1795564459
   },
   {
    "channel": "hutchmf",
@@ -2546,28 +2770,12 @@
    "created": 1795544623
   },
   {
-   "channel": "missmikkaa",
-   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "channel": "jasontheween",
+   "title": "roast",
    "views": 5,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/PlacidObliviousLadiesKlappa-WgpSrqVL8LTrJ0_-",
-   "created": 1795534881
-  },
-  {
-   "channel": "missmikkaa",
-   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
-   "views": 5,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/NiceUnsightlyWaterTakeNRG-XfPdkXn10JhltygS",
-   "created": 1795548212
-  },
-  {
-   "channel": "missmikkaa",
-   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
-   "views": 5,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/HealthyColdbloodedLegSpicyBoy-rXTQW6zeSaAiTsok",
-   "created": 1795563375
+   "duration": 31.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/RealBraveWrenchHassanChop-F1MeKOXKXBZ1ncNx",
+   "created": 1795575707
   },
   {
    "channel": "missmikkaa",
@@ -2579,14 +2787,6 @@
   },
   {
    "channel": "missmikkaa",
-   "title": "MissMikkaa blows Lucia's money at the strip club",
-   "views": 5,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/SpeedyUninterestedBasenjiCclamChamp-SYUYH6wuKBHG72ni",
-   "created": 1795535443
-  },
-  {
-   "channel": "missmikkaa",
    "title": "Lucia! Get on!",
    "views": 5,
    "duration": 60.0,
@@ -2594,20 +2794,36 @@
    "created": 1795583109
   },
   {
-   "channel": "illojuan",
-   "title": "l\u00ednea de transici\u00f3n",
+   "channel": "missmikkaa",
+   "title": "Chat-Reaktion",
    "views": 5,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/illojuan/clip/CallousSuavePartridgePupper-TNqcxa4of-V-L5c1",
-   "created": 1795568906
+   "duration": 45.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/CarefulExcitedPizzaCoolCat-mYAnQ2PhHKB5WCdt",
+   "created": 1795563284
+  },
+  {
+   "channel": "agent00",
+   "title": "t",
+   "views": 5,
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/agent00/clip/HandsomeRealBarracudaMcaT-BTt2v7KlB70VsVYF",
+   "created": 1795555032
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "2",
+   "views": 5,
+   "duration": 22.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/PeppyViscousMochaGivePLZ-P5s9_BO5Lhz4vBCs",
+   "created": 1795525800
   },
   {
    "channel": "illojuan",
-   "title": "cc",
+   "title": "LUC\u00cdA CAMINOS \ud83d\ude47\ud83c\udffb\u200d\u2642\ufe0f MI MAMI \ud83e\udd7a LELE PANXA \ud83d\udc76\ud83c\udffb joder qu\u00e9 verg\u00fcenza de t\u00edtulo lo siento - Grand Theft Auto VI #5",
    "views": 5,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/illojuan/clip/AcceptableSilkyInternMau5-DTJnKY7EZxIJ9JQa",
-   "created": 1795573555
+   "url": "https://www.twitch.tv/illojuan/clip/GracefulAggressiveLocustDoggo-kRUAvgjidsQNxnvZ",
+   "created": 1795558830
   },
   {
    "channel": "illojuan",
@@ -2619,19 +2835,11 @@
   },
   {
    "channel": "illojuan",
-   "title": "LUC\u00cdA CAMINOS \ud83d\ude47\ud83c\udffb\u200d\u2642\ufe0f MI MAMI \ud83e\udd7a LELE PANXA \ud83d\udc76\ud83c\udffb joder qu\u00e9 verg\u00fcenza de t\u00edtulo lo siento - Grand Theft Auto VI #5",
+   "title": "cc",
    "views": 5,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/illojuan/clip/GracefulAggressiveLocustDoggo-kRUAvgjidsQNxnvZ",
-   "created": 1795558830
-  },
-  {
-   "channel": "timthetatman",
-   "title": "lol",
-   "views": 5,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/SuaveProductiveWallabyTakeNRG-yzRaDXbDpTKo4e1e",
-   "created": 1795548769
+   "url": "https://www.twitch.tv/illojuan/clip/AcceptableSilkyInternMau5-DTJnKY7EZxIJ9JQa",
+   "created": 1795573555
   },
   {
    "channel": "timthetatman",
@@ -2642,20 +2850,52 @@
    "created": 1795540251
   },
   {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 4,
-   "duration": 58.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/OutstandingFastNoodleBigBrother-EXvDn-HnmXyk1-yF",
-   "created": 1795530414
+   "channel": "timthetatman",
+   "title": "lol",
+   "views": 5,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/SuaveProductiveWallabyTakeNRG-yzRaDXbDpTKo4e1e",
+   "created": 1795548769
   },
   {
    "channel": "nickmercs",
-   "title": "Toddler",
+   "title": "in lu in!!",
    "views": 4,
-   "duration": 27.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/AssiduousSuccessfulClipzTooSpicy-FoyxJ5gqyasHVMpb",
-   "created": 1795529191
+   "duration": 42.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/SpikyAmazonianBibimbapRickroll-gT41i5ODnN7AQRqr",
+   "created": 1795549881
+  },
+  {
+   "channel": "nickmercs",
+   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "views": 4,
+   "duration": 43.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/DifferentSmoothPangolinFloof-_V62ofzWtNcL0xV-",
+   "created": 1795533136
+  },
+  {
+   "channel": "nickmercs",
+   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "views": 4,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/FamousScaryQueleaFUNgineer-LSJdyvlUu627ZwFn",
+   "created": 1795547806
+  },
+  {
+   "channel": "nickmercs",
+   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "views": 4,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/ElegantAnimatedWheelOSsloth-n-fLRX6kfPFVW_uH",
+   "created": 1795530162
+  },
+  {
+   "channel": "nickmercs",
+   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "views": 4,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/FamousScaryQueleaFUNgineer-LSJdyvlUu627ZwFn",
+   "created": 1795547806
   },
   {
    "channel": "nickmercs",
@@ -2677,81 +2917,25 @@
    "channel": "nickmercs",
    "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
    "views": 4,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/ElegantAnimatedWheelOSsloth-n-fLRX6kfPFVW_uH",
-   "created": 1795530162
+   "duration": 36.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/FrigidTallGerbilBuddhaBar-eKHscsswclaHHYMa",
+   "created": 1795551265
   },
   {
    "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "title": "Toddler",
    "views": 4,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/RenownedRamshackleStorkNononoCat-kQpEf_ybS-bDdpHr",
-   "created": 1795550712
+   "duration": 27.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/AssiduousSuccessfulClipzTooSpicy-FoyxJ5gqyasHVMpb",
+   "created": 1795529191
   },
   {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 4,
-   "duration": 58.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/OutstandingFastNoodleBigBrother-EXvDn-HnmXyk1-yF",
-   "created": 1795530414
-  },
-  {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 4,
-   "duration": 43.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/DifferentSmoothPangolinFloof-_V62ofzWtNcL0xV-",
-   "created": 1795533136
-  },
-  {
-   "channel": "nickmercs",
-   "title": "in lu in!!",
-   "views": 4,
-   "duration": 42.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/SpikyAmazonianBibimbapRickroll-gT41i5ODnN7AQRqr",
-   "created": 1795549881
-  },
-  {
-   "channel": "tfue",
-   "title": "yolo",
-   "views": 4,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/tfue/clip/BravePlayfulGrouseDoubleRainbow-ODAbPTDsL-0sxvxJ",
-   "created": 1795583184
-  },
-  {
-   "channel": "tfue",
-   "title": "dummy cops",
-   "views": 4,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/tfue/clip/WiseConcernedMallardBleedPurple-INmBQitr7mH-uMSt",
-   "created": 1795589080
-  },
-  {
-   "channel": "tfue",
-   "title": "lol",
+   "channel": "hutchmf",
+   "title": "TACO TUESDAY WE ON WE ACTIVE LETS GET IT!!!",
    "views": 4,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/tfue/clip/BenevolentOriginalMeatloafTebowing-KEfVdYXs0P3m5cTa",
-   "created": 1795517824
-  },
-  {
-   "channel": "tfue",
-   "title": "stremmer",
-   "views": 4,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/tfue/clip/SplendidLightShieldLeeroyJenkins-SbEnfu7E6i1jzGLM",
-   "created": 1795518601
-  },
-  {
-   "channel": "tfue",
-   "title": "MDR",
-   "views": 4,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/tfue/clip/CalmAuspiciousStarlingFloof-0_ODSWDZ_w9nEi4u",
-   "created": 1795527681
+   "url": "https://www.twitch.tv/hutchmf/clip/AffluentHorribleTroutMrDestructoid-PQDGiwSNaoJxdUtm",
+   "created": 1795531654
   },
   {
    "channel": "hutchmf",
@@ -2787,14 +2971,6 @@
   },
   {
    "channel": "hutchmf",
-   "title": "TACO TUESDAY WE ON WE ACTIVE LETS GET IT!!!",
-   "views": 4,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/AffluentHorribleTroutMrDestructoid-PQDGiwSNaoJxdUtm",
-   "created": 1795531654
-  },
-  {
-   "channel": "hutchmf",
    "title": "Saving the World",
    "views": 4,
    "duration": 60.0,
@@ -2818,12 +2994,92 @@
    "created": 1795556512
   },
   {
-   "channel": "missmikkaa",
-   "title": "Lucia tries on a bikini while browsing the clothing store racks",
+   "channel": "jasontheween",
+   "title": "jasonthween magic",
    "views": 4,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/FastAlertSquidDAESuppy-DYUmnucWCyIb0V0h",
-   "created": 1795555045
+   "url": "https://www.twitch.tv/jasontheween/clip/AltruisticAlertAlfalfaYee-3pow14serST94Pab",
+   "created": 1795517611
+  },
+  {
+   "channel": "jasontheween",
+   "title": "1",
+   "views": 4,
+   "duration": 19.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/BashfulKindHerdFrankerZ-icOqze1p7nFG0olw",
+   "created": 1795549186
+  },
+  {
+   "channel": "jasontheween",
+   "title": "gang",
+   "views": 4,
+   "duration": 22.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/WittyMiniatureClipsdadPMSTwin-xCjggbvrjst_NP4E",
+   "created": 1795579878
+  },
+  {
+   "channel": "jasontheween",
+   "title": "aye yo",
+   "views": 4,
+   "duration": 36.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/WiseUnusualBarracudaChefFrank-J80ENUMnx1hTHFIf",
+   "created": 1795576402
+  },
+  {
+   "channel": "jasontheween",
+   "title": "h",
+   "views": 4,
+   "duration": 11.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/TenuousAverageAnteaterStoneLightning-8lbjdmsi2NaIyDzx",
+   "created": 1795540864
+  },
+  {
+   "channel": "jasontheween",
+   "title": "????",
+   "views": 4,
+   "duration": 21.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/ConcernedRenownedTroutWutFace-EPy4aD5VZ-mQu6xN",
+   "created": 1795580210
+  },
+  {
+   "channel": "jasontheween",
+   "title": "12",
+   "views": 4,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/LivelySneakyPigeonThisIsSparta-vp-LTxj5Z0DMHDqp",
+   "created": 1795524699
+  },
+  {
+   "channel": "jasontheween",
+   "title": "1st part",
+   "views": 4,
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/SincerePrettyWallabyMoreCowbell-qKBLUYCKaIVGqEpX",
+   "created": 1795573745
+  },
+  {
+   "channel": "jasontheween",
+   "title": "LOL",
+   "views": 4,
+   "duration": 16.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/InnocentNurturingHippoDendiFace-5x0JqdwfDzCG22bH",
+   "created": 1795549339
+  },
+  {
+   "channel": "jasontheween",
+   "title": "dhs",
+   "views": 4,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/TangentialTawdryTireKeepo-Zxi1zFMfheSdmM3f",
+   "created": 1795553113
+  },
+  {
+   "channel": "jasontheween",
+   "title": "????",
+   "views": 4,
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/LivelyGracefulWrenchPanicVis-T2X3sWimtVb_mac1",
+   "created": 1795575577
   },
   {
    "channel": "missmikkaa",
@@ -2835,59 +3091,67 @@
   },
   {
    "channel": "missmikkaa",
-   "title": "Chat-Reaktion",
+   "title": "Lucia tries on a bikini while browsing the clothing store racks",
    "views": 4,
-   "duration": 45.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/CarefulExcitedPizzaCoolCat-mYAnQ2PhHKB5WCdt",
-   "created": 1795563284
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/FastAlertSquidDAESuppy-DYUmnucWCyIb0V0h",
+   "created": 1795555045
   },
   {
    "channel": "agent00",
-   "title": "t",
-   "views": 4,
-   "duration": 5.0,
-   "url": "https://www.twitch.tv/agent00/clip/HandsomeRealBarracudaMcaT-BTt2v7KlB70VsVYF",
-   "created": 1795555032
-  },
-  {
-   "channel": "illojuan",
-   "title": "no comments",
-   "views": 4,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/illojuan/clip/PrettiestDarlingClipsmomBlargNaut-ag9OwhqmtbD9k5g-",
-   "created": 1795569400
-  },
-  {
-   "channel": "illojuan",
-   "title": "un pecho para apoyarse",
-   "views": 4,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/illojuan/clip/ArtisticHappyParrotBatChest-RDKIofxOTMfprZKS",
-   "created": 1795553196
-  },
-  {
-   "channel": "illojuan",
-   "title": "no comments",
-   "views": 4,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/illojuan/clip/PrettiestDarlingClipsmomBlargNaut-ag9OwhqmtbD9k5g-",
-   "created": 1795569400
-  },
-  {
-   "channel": "illojuan",
-   "title": "un pecho para apoyarse",
-   "views": 4,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/illojuan/clip/ArtisticHappyParrotBatChest-RDKIofxOTMfprZKS",
-   "created": 1795553196
-  },
-  {
-   "channel": "illojuan",
-   "title": "m",
+   "title": "consequences of sombody else\u2019s actions \ud83e\udd23\ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f",
    "views": 4,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/illojuan/clip/GiantInterestingDugongUnSane-VLB-66A4l95s83Ku",
-   "created": 1795548802
+   "url": "https://www.twitch.tv/agent00/clip/StrangeExquisiteKeyboardItsBoshyTime-sGDBQi0g0-SkiXQe",
+   "created": 1795523600
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "bike",
+   "views": 4,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/ColorfulProductiveAyeayeDogFace-Ud1K6gQciBMUHJVN",
+   "created": 1795529619
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Joe japping",
+   "views": 4,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/MoldyDoubtfulEchidnaPJSugar-PJhgbqlsLrQlQ9jc",
+   "created": 1795517534
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "lol",
+   "views": 4,
+   "duration": 40.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/BlindingMistyCheesecakeFeelsBadMan-IZSTBqy_oyZIcTuq",
+   "created": 1795533743
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "1",
+   "views": 4,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/AntsyGlutenFreeHerringStrawBeary-fSsXXsbGTeV_oOYP",
+   "created": 1795525740
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Lmao",
+   "views": 4,
+   "duration": 16.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/VibrantColdbloodedArugulaTBTacoLeft-I-wfDu98-cRwNNxc",
+   "created": 1795538316
+  },
+  {
+   "channel": "illojuan",
+   "title": "v",
+   "views": 4,
+   "duration": 49.0,
+   "url": "https://www.twitch.tv/illojuan/clip/ObliviousDepressedBaboonCurseLit-1F6o8nHEEtxm_N6z",
+   "created": 1795573218
   },
   {
    "channel": "illojuan",
@@ -2899,11 +3163,59 @@
   },
   {
    "channel": "illojuan",
+   "title": "un pecho para apoyarse",
+   "views": 4,
+   "duration": 29.0,
+   "url": "https://www.twitch.tv/illojuan/clip/ArtisticHappyParrotBatChest-RDKIofxOTMfprZKS",
+   "created": 1795553196
+  },
+  {
+   "channel": "illojuan",
    "title": "Juan se pica xD",
    "views": 4,
    "duration": 13.0,
    "url": "https://www.twitch.tv/illojuan/clip/GeniusBraveWaspKippa-N5CYFG4RCGLkrJ_L",
    "created": 1795551936
+  },
+  {
+   "channel": "illojuan",
+   "title": "EL \u00daLTIMO ROM\u00c1NTICO \ud83c\udf39 LUC\u00cdA SIMP GAMEPLAY \ud83d\ude47 - Grand Theft Auto VI #3",
+   "views": 4,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/illojuan/clip/SolidAgreeableFerretPrimeMe-rVlCHmzDqgRAfZSM",
+   "created": 1795576294
+  },
+  {
+   "channel": "illojuan",
+   "title": "EL \u00daLTIMO ROM\u00c1NTICO \ud83c\udf39 LUC\u00cdA SIMP GAMEPLAY \ud83d\ude47 - Grand Theft Auto VI #3",
+   "views": 4,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/illojuan/clip/SolidAgreeableFerretPrimeMe-rVlCHmzDqgRAfZSM",
+   "created": 1795576294
+  },
+  {
+   "channel": "illojuan",
+   "title": "v",
+   "views": 4,
+   "duration": 49.0,
+   "url": "https://www.twitch.tv/illojuan/clip/ObliviousDepressedBaboonCurseLit-1F6o8nHEEtxm_N6z",
+   "created": 1795573218
+  },
+  {
+   "channel": "illojuan",
+   "title": "jeje",
+   "views": 4,
+   "duration": 29.0,
+   "url": "https://www.twitch.tv/illojuan/clip/HappyNaiveFriseeNinjaGrumpy-T9vlO9ok7s2eO7MB",
+   "created": 1795575820
+  },
+  {
+   "channel": "illojuan",
+   "title": "un pecho para apoyarse",
+   "views": 4,
+   "duration": 29.0,
+   "url": "https://www.twitch.tv/illojuan/clip/ArtisticHappyParrotBatChest-RDKIofxOTMfprZKS",
+   "created": 1795553196
   },
   {
    "channel": "clix",
@@ -2912,14 +3224,6 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/clix/clip/ScrumptiousScrumptiousOryxPanicBasket-dIXeqQBp9GYt7S4K",
    "created": 1795540726
-  },
-  {
-   "channel": "clix",
-   "title": "Clix Drops Muss in Squad Victory Cup",
-   "views": 4,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/clix/clip/FragilePoisedPlumberEagleEye-Z8OL9YqhVLkMol3v",
-   "created": 1795509502
   },
   {
    "channel": "clix",
@@ -2955,11 +3259,27 @@
   },
   {
    "channel": "nickmercs",
+   "title": "NICKMERCS hype 6.0x 13:59",
+   "views": 3,
+   "duration": 59.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/HelplessDarkTrayShazBotstix-gvB_7nLxYy1EHJbD",
+   "created": 1795546754
+  },
+  {
+   "channel": "nickmercs",
    "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
    "views": 3,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/ObservantAbrasiveWallabySmoocherZ-gChu83z-nszWmMBK",
-   "created": 1795535114
+   "url": "https://www.twitch.tv/nickmercs/clip/DepressedOutstandingFiddleheadsTheRinger-4ZDXXAB73gHUevHc",
+   "created": 1795526380
+  },
+  {
+   "channel": "nickmercs",
+   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "views": 3,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/AltruisticMagnificentScallionTinyFace-Uf98tdjD-pTcYwJw",
+   "created": 1795553967
   },
   {
    "channel": "nickmercs",
@@ -2982,128 +3302,8 @@
    "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
    "views": 3,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/DepressedOutstandingFiddleheadsTheRinger-4ZDXXAB73gHUevHc",
-   "created": 1795526380
-  },
-  {
-   "channel": "nickmercs",
-   "title": "NICKMERCS hype 6.0x 13:59",
-   "views": 3,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/HelplessDarkTrayShazBotstix-gvB_7nLxYy1EHJbD",
-   "created": 1795546754
-  },
-  {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 3,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/AltruisticMagnificentScallionTinyFace-Uf98tdjD-pTcYwJw",
-   "created": 1795553967
-  },
-  {
-   "channel": "tfue",
-   "title": "Civilian crims up and walks off with money bags",
-   "views": 3,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/tfue/clip/LongFaithfulLocustJonCarnage-9eWdXaJJc58QwCAf",
-   "created": 1795529904
-  },
-  {
-   "channel": "tfue",
-   "title": "...",
-   "views": 3,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/tfue/clip/LittleCharmingSangYouDontSay-9Z2jzZv1Omurjt6h",
-   "created": 1795522565
-  },
-  {
-   "channel": "tfue",
-   "title": "qqqqqqqqqqqe",
-   "views": 3,
-   "duration": 47.0,
-   "url": "https://www.twitch.tv/tfue/clip/BusyFantasticBulgogiDuDudu-ZlvSHhkqEC3n3dub",
-   "created": 1795528970
-  },
-  {
-   "channel": "tfue",
-   "title": "0",
-   "views": 3,
-   "duration": 21.0,
-   "url": "https://www.twitch.tv/tfue/clip/RockyPlausibleTruffleSuperVinlin-RZAZxMK-GM3w-X7E",
-   "created": 1795542410
-  },
-  {
-   "channel": "tfue",
-   "title": "comedy gold civ",
-   "views": 3,
-   "duration": 47.0,
-   "url": "https://www.twitch.tv/tfue/clip/SuaveMushyPotOneHand-4CXTNJ1cAxzZp_NP",
-   "created": 1795522677
-  },
-  {
-   "channel": "tfue",
-   "title": "cheatersssss",
-   "views": 3,
-   "duration": 16.0,
-   "url": "https://www.twitch.tv/tfue/clip/DeliciousLazyAyeayeFloof-xLUq3knQvrmEUnrI",
-   "created": 1795523667
-  },
-  {
-   "channel": "tfue",
-   "title": "classic rob run experience",
-   "views": 3,
-   "duration": 13.0,
-   "url": "https://www.twitch.tv/tfue/clip/ManlyLovelyRutabagaRickroll-fwc05chrBW9WqrNt",
-   "created": 1795583999
-  },
-  {
-   "channel": "tfue",
-   "title": "flash in the face=not flashed",
-   "views": 3,
-   "duration": 23.0,
-   "url": "https://www.twitch.tv/tfue/clip/DeafOptimisticTardigradeGrammarKing-uH0UJ7BoQQh4ajRF",
-   "created": 1795518159
-  },
-  {
-   "channel": "tfue",
-   "title": "2",
-   "views": 3,
-   "duration": 12.0,
-   "url": "https://www.twitch.tv/tfue/clip/CleanTsunderePanYouDontSay-JMSO94uTZBBzR67O",
-   "created": 1795572965
-  },
-  {
-   "channel": "tfue",
-   "title": "another rip",
-   "views": 3,
-   "duration": 5.0,
-   "url": "https://www.twitch.tv/tfue/clip/TubularStormyQuailTwitchRaid-VQ2QNUarEv1TIlvb",
-   "created": 1795590256
-  },
-  {
-   "channel": "tfue",
-   "title": "LOL",
-   "views": 3,
-   "duration": 16.0,
-   "url": "https://www.twitch.tv/tfue/clip/OnerousSourKuduFreakinStinkin-XrRmZwuyVroHBOIB",
-   "created": 1795580485
-  },
-  {
-   "channel": "tfue",
-   "title": "set",
-   "views": 3,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/tfue/clip/ConfidentVivaciousWrenRlyTho-9MK12QEjda2IRk-y",
-   "created": 1795527801
-  },
-  {
-   "channel": "hutchmf",
-   "title": "Diddy house",
-   "views": 3,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/MiniaturePlausibleHummingbirdSuperVinlin-1T7x_IicH9KL41OS",
-   "created": 1795537537
+   "url": "https://www.twitch.tv/nickmercs/clip/ObservantAbrasiveWallabySmoocherZ-gChu83z-nszWmMBK",
+   "created": 1795535114
   },
   {
    "channel": "hutchmf",
@@ -3130,6 +3330,14 @@
    "created": 1795545163
   },
   {
+   "channel": "hutchmf",
+   "title": "Diddy house",
+   "views": 3,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/MiniaturePlausibleHummingbirdSuperVinlin-1T7x_IicH9KL41OS",
+   "created": 1795537537
+  },
+  {
    "channel": "teegrizzley",
    "title": "aaaaaa",
    "views": 3,
@@ -3146,12 +3354,132 @@
    "created": 1795574721
   },
   {
-   "channel": "missmikkaa",
-   "title": "Lucia freshens up in the changing room, then talks to a man outside the gym",
+   "channel": "jasontheween",
+   "title": "k",
+   "views": 3,
+   "duration": 15.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/ColorfulHumbleSardineNotATK-aoPc5fLEi8mL8qoN",
+   "created": 1795535797
+  },
+  {
+   "channel": "jasontheween",
+   "title": "parking carts",
+   "views": 3,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/PlausibleSuaveAmazonANELE-3yY0-z42-H2-tLsC",
+   "created": 1795554676
+  },
+  {
+   "channel": "jasontheween",
+   "title": "1",
+   "views": 3,
+   "duration": 10.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/SavageBoxyFloofGivePLZ-xsZSaUmcj-FvW-gp",
+   "created": 1795563235
+  },
+  {
+   "channel": "jasontheween",
+   "title": "take the medkit",
+   "views": 3,
+   "duration": 19.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/GrotesqueRealWhaleSquadGoals-iiDxbZKkYN6fwC9d",
+   "created": 1795552164
+  },
+  {
+   "channel": "jasontheween",
+   "title": "bruh",
+   "views": 3,
+   "duration": 26.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/ColorfulArtisticLocustSpicyBoy-hCukmqNqMfQdrfIz",
+   "created": 1795532916
+  },
+  {
+   "channel": "jasontheween",
+   "title": "jason ssuitcases",
+   "views": 3,
+   "duration": 13.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/LazyNastyOpossumAliens-SQhWCXev0aGm9NU7",
+   "created": 1795554927
+  },
+  {
+   "channel": "jasontheween",
+   "title": "POV: you let streamers fry the turkey \ud83e\udd83\ud83d\udd25",
    "views": 3,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/NiceUninterestedPonyPeanutButterJellyTime-7v2BpZkn_nrWqmGy",
-   "created": 1795550526
+   "url": "https://www.twitch.tv/jasontheween/clip/SuperRamshackleWallabyDendiFace-gtQMcyS0LMI7ljJQ",
+   "created": 1795546926
+  },
+  {
+   "channel": "jasontheween",
+   "title": "2nd part",
+   "views": 3,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/AbstruseEphemeralWeaselKAPOW-V0LV0OlgP2chNghr",
+   "created": 1795573594
+  },
+  {
+   "channel": "jasontheween",
+   "title": "k",
+   "views": 3,
+   "duration": 16.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/BlitheConfidentSharkPJSugar-nPU0jRJQVVc7bA6Y",
+   "created": 1795537220
+  },
+  {
+   "channel": "jasontheween",
+   "title": "jasons' e n d ing",
+   "views": 3,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/JollyBashfulVanillaVoHiYo-bSfYrNi4lUVDBLf5",
+   "created": 1795540753
+  },
+  {
+   "channel": "jasontheween",
+   "title": "a",
+   "views": 3,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/FragileAstuteMuleCopyThis-siDKuXoob48Akzfh",
+   "created": 1795519418
+  },
+  {
+   "channel": "jasontheween",
+   "title": "BURGer",
+   "views": 3,
+   "duration": 42.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/FastDelightfulLettuceRuleFive-Y1WS0lLpgqyR8Yi5",
+   "created": 1795577794
+  },
+  {
+   "channel": "jasontheween",
+   "title": "normal stuff",
+   "views": 3,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/CloudyInspiringScallionMcaT-pUAyMK_NUUWkbTza",
+   "created": 1795576367
+  },
+  {
+   "channel": "jasontheween",
+   "title": "h",
+   "views": 3,
+   "duration": 10.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/NastyTsundereTaroSoonerLater-ogLOxpz1fa4COm-R",
+   "created": 1795539123
+  },
+  {
+   "channel": "jasontheween",
+   "title": "j",
+   "views": 3,
+   "duration": 19.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/ElatedHilariousOrangeBrokeBack-3bH3F5DvyaAwdzV3",
+   "created": 1795535889
+  },
+  {
+   "channel": "jasontheween",
+   "title": "h",
+   "views": 3,
+   "duration": 10.0,
+   "url": "https://www.twitch.tv/jasontheween/clip/NastyTsundereTaroSoonerLater-ogLOxpz1fa4COm-R",
+   "created": 1795539123
   },
   {
    "channel": "missmikkaa",
@@ -3162,28 +3490,84 @@
    "created": 1795543182
   },
   {
-   "channel": "illojuan",
-   "title": "CUIDADO QUE TE VEN!!!",
+   "channel": "missmikkaa",
+   "title": "Lucia freshens up in the changing room, then talks to a man outside the gym",
    "views": 3,
-   "duration": 24.0,
-   "url": "https://www.twitch.tv/illojuan/clip/PatientBadMochaKreygasm-XqZlsIm06ilDYAcI",
-   "created": 1795551821
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/NiceUninterestedPonyPeanutButterJellyTime-7v2BpZkn_nrWqmGy",
+   "created": 1795550526
+  },
+  {
+   "channel": "agent00",
+   "title": "agent gta 6 finale",
+   "views": 3,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/agent00/clip/BlatantSuperOysterBIRB-ETPwI6zUzzCwuQ1H",
+   "created": 1795519825
+  },
+  {
+   "channel": "agent00",
+   "title": "opkop",
+   "views": 3,
+   "duration": 36.0,
+   "url": "https://www.twitch.tv/agent00/clip/ColdbloodedEasyCobraYouWHY-p50WCrsI_BfwpJZE",
+   "created": 1795527982
+  },
+  {
+   "channel": "agent00",
+   "title": "w",
+   "views": 3,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/agent00/clip/KitschySleepyFiddleheadsCclamChamp-hfdnKBj0QqI6iWNx",
+   "created": 1795570400
+  },
+  {
+   "channel": "agent00",
+   "title": "cnmm",
+   "views": 3,
+   "duration": 21.0,
+   "url": "https://www.twitch.tv/agent00/clip/TubularSparklyKoupreyBuddhaBar-jup_DNS8gqetkJCj",
+   "created": 1795525241
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Ass driver",
+   "views": 3,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/HandsomeRelatedHamburgerDatBoi-mXvvMLG00wTdJMZG",
+   "created": 1795533897
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "f",
+   "views": 3,
+   "duration": 22.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/PoliteSteamyMageCeilingCat-zIfCS2u8IkXKltVE",
+   "created": 1795565480
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Ass driver",
+   "views": 3,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/HandsomeRelatedHamburgerDatBoi-mXvvMLG00wTdJMZG",
+   "created": 1795533897
   },
   {
    "channel": "illojuan",
-   "title": "ahahhahaha",
+   "title": "que juego es este",
    "views": 3,
-   "duration": 16.0,
-   "url": "https://www.twitch.tv/illojuan/clip/SuspiciousSleepyTireHeyGuys-IYN8KgzRlZv6OG_R",
-   "created": 1795575329
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/illojuan/clip/SpineyBeautifulShrewNotLikeThis--KmZXZi4wd4r61Lr",
+   "created": 1795552516
   },
   {
    "channel": "clix",
-   "title": "asda",
+   "title": "train",
    "views": 3,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/clix/clip/GlutenFreeHumbleGrouseTheTarFu-_aQSvumlWjHhL5G4",
-   "created": 1795561012
+   "duration": 36.0,
+   "url": "https://www.twitch.tv/clix/clip/CuteConsiderateVanillaBleedPurple-o-USy3FW1cD47kFF",
+   "created": 1795569154
   },
   {
    "channel": "clix",
@@ -3195,27 +3579,11 @@
   },
   {
    "channel": "clix",
-   "title": "train",
+   "title": "asda",
    "views": 3,
-   "duration": 36.0,
-   "url": "https://www.twitch.tv/clix/clip/CuteConsiderateVanillaBleedPurple-o-USy3FW1cD47kFF",
-   "created": 1795569154
-  },
-  {
-   "channel": "timthetatman",
-   "title": "DROPS - GRINDING",
-   "views": 3,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/HappyAmusedWoodcockDancingBaby-1Hy7DhYEW5D-50lm",
-   "created": 1795551952
-  },
-  {
-   "channel": "timthetatman",
-   "title": "DROPS - GRINDING",
-   "views": 3,
-   "duration": 58.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/SillyLongWaspRiPepperonis-QYXZo2CYfuZGOHyw",
-   "created": 1795562454
+   "duration": 18.0,
+   "url": "https://www.twitch.tv/clix/clip/GlutenFreeHumbleGrouseTheTarFu-_aQSvumlWjHhL5G4",
+   "created": 1795561012
   },
   {
    "channel": "timthetatman",
@@ -3227,19 +3595,11 @@
   },
   {
    "channel": "timthetatman",
-   "title": "TimTheTatman: Viewer signal: +964 viewers (+18.0%)",
+   "title": "Timmy",
    "views": 3,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/ObedientOddCormorantWutFace-LxiPV4oTjzPzypKl",
-   "created": 1795551327
-  },
-  {
-   "channel": "timthetatman",
-   "title": "LAYERS BTWWWWW",
-   "views": 3,
-   "duration": 40.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/MotionlessHorribleClipsdadWholeWheat-pd1TYl0GU1iSpVXa",
-   "created": 1795553353
+   "duration": 21.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/MoistKindDeerPlanking-rh8t0m0IT_AN9TtY",
+   "created": 1795568153
   },
   {
    "channel": "timthetatman",
@@ -3251,11 +3611,91 @@
   },
   {
    "channel": "timthetatman",
-   "title": "Timmy",
+   "title": "DROPS - GRINDING",
    "views": 3,
-   "duration": 21.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/MoistKindDeerPlanking-rh8t0m0IT_AN9TtY",
-   "created": 1795568153
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/HappyAmusedWoodcockDancingBaby-1Hy7DhYEW5D-50lm",
+   "created": 1795551952
+  },
+  {
+   "channel": "timthetatman",
+   "title": "LAYERS BTWWWWW",
+   "views": 3,
+   "duration": 40.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/MotionlessHorribleClipsdadWholeWheat-pd1TYl0GU1iSpVXa",
+   "created": 1795553353
+  },
+  {
+   "channel": "timthetatman",
+   "title": "TimTheTatman: Viewer signal: +964 viewers (+18.0%)",
+   "views": 3,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/ObedientOddCormorantWutFace-LxiPV4oTjzPzypKl",
+   "created": 1795551327
+  },
+  {
+   "channel": "timthetatman",
+   "title": "DROPS - GRINDING",
+   "views": 3,
+   "duration": 58.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/SillyLongWaspRiPepperonis-QYXZo2CYfuZGOHyw",
+   "created": 1795562454
+  },
+  {
+   "channel": "nickmercs",
+   "title": "wtf is he singing??!!!",
+   "views": 2,
+   "duration": 28.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/HeartlessDullAntHassaanChop-7vNOY8HSKcn-q0U7",
+   "created": 1795527194
+  },
+  {
+   "channel": "nickmercs",
+   "title": "NICKMERCS hype 5.0x 15:17",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/OriginalFragileRatFrankerZ-b4qSM_xWiIFgUxgZ",
+   "created": 1795551472
+  },
+  {
+   "channel": "nickmercs",
+   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "views": 2,
+   "duration": 58.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/TastyColdSoymilkDoggo-IN2Pj9P195dc-Qrk",
+   "created": 1795547387
+  },
+  {
+   "channel": "nickmercs",
+   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "views": 2,
+   "duration": 59.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/HyperOddKuduKreygasm-h73W0VqVxN7rXufm",
+   "created": 1795544755
+  },
+  {
+   "channel": "nickmercs",
+   "title": "NICKMERCS hype 15.0x 14:31",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/InspiringBrightNikudonDansGame-CfWhmMjttPFprzKp",
+   "created": 1795548719
+  },
+  {
+   "channel": "nickmercs",
+   "title": "new rule cars are better",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/HomelyCrypticCattleYouDontSay-RaNmYnwD4OPlR2E0",
+   "created": 1795550080
+  },
+  {
+   "channel": "nickmercs",
+   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/nickmercs/clip/AttractiveEntertainingYakinikuBrainSlug-YeLyTOLS3oY5GvqF",
+   "created": 1795547831
   },
   {
    "channel": "nickmercs",
@@ -3266,132 +3706,28 @@
    "created": 1795558294
   },
   {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/SpikyAwkwardPterodactylPrimeMe-gwQkfY-spMAs9PKT",
-   "created": 1795558210
-  },
-  {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/BillowingTardyLadiesStoneLightning-WfdXtZSYMgN4geBm",
-   "created": 1795533263
-  },
-  {
-   "channel": "nickmercs",
-   "title": "nickmercs reaction",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/RelentlessGiantSandpiperDAESuppy-0--0tobO7rCGrQoV",
-   "created": 1795529041
-  },
-  {
-   "channel": "nickmercs",
-   "title": "nickmercs reaction",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/CorrectDiligentDonutKippa-2mq3T9Mt2tb0KkKl",
-   "created": 1795539493
-  },
-  {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/AnimatedSoftCattleEagleEye-odG8_AAykq9v1N9l",
-   "created": 1795532296
-  },
-  {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/ImpossibleGiantDinosaurOhMyDog-PQp6Ie38M6njr9mT",
-   "created": 1795552378
-  },
-  {
-   "channel": "nickmercs",
-   "title": "[DROPS] MY FIRST EVER GTA! WE GOT UNFINISHED BUSINESS! \ud83d\udd25",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/nickmercs/clip/PleasantMagnificentPeachTBTacoLeft--PJTceC36q7Qow9F",
-   "created": 1795543927
-  },
-  {
-   "channel": "tfue",
-   "title": "wtff?",
+   "channel": "hutchmf",
+   "title": "ur signing off ?",
    "views": 2,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/tfue/clip/BoxyDeafSquidSmoocherZ-NJbN0y1ZyCtYo7VY",
-   "created": 1795529330
-  },
-  {
-   "channel": "tfue",
-   "title": "chat could NOT handle this \ud83d\udc80",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/tfue/clip/VastWittyCakeFunRun-BNqTTN_w7_2ZEpyl",
-   "created": 1795529469
-  },
-  {
-   "channel": "tfue",
-   "title": "sums up this game",
-   "views": 2,
-   "duration": 39.0,
-   "url": "https://www.twitch.tv/tfue/clip/ExcitedHardWatercressFunRun-1-VrZZS5ZfoH8gfp",
-   "created": 1795589938
-  },
-  {
-   "channel": "tfue",
-   "title": "EVIL Seby",
-   "views": 2,
-   "duration": 27.0,
-   "url": "https://www.twitch.tv/tfue/clip/HumbleOnerousCaterpillarTheThing-3KDkMiQsirJ3eICi",
-   "created": 1795528156
-  },
-  {
-   "channel": "tfue",
-   "title": "police",
-   "views": 2,
-   "duration": 22.0,
-   "url": "https://www.twitch.tv/tfue/clip/CallousSpicyDootCoolCat-P7Rl3zaqu2YHkAuU",
-   "created": 1795523220
+   "url": "https://www.twitch.tv/hutchmf/clip/NastySpeedyElephantEagleEye-A704Xk1qPen121iV",
+   "created": 1795594958
   },
   {
    "channel": "hutchmf",
-   "title": "asdsad",
+   "title": "perfect condition",
    "views": 2,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/JazzyDreamyHerbsBudStar-L9brdmoWAC_a5ccP",
-   "created": 1795530863
+   "url": "https://www.twitch.tv/hutchmf/clip/SlipperyExcitedLasagnaSoBayed-qO1k_Uo_1YyETXsz",
+   "created": 1795545208
   },
   {
    "channel": "hutchmf",
    "title": "[DROPS]TACO TUESDAY WE ON WE ACTIVE LETS GET IT!!!",
    "views": 2,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/FancyPoisedCobblerSuperVinlin-GMGrd_8NBBXBI2IY",
-   "created": 1795561551
-  },
-  {
-   "channel": "hutchmf",
-   "title": "[DROPS]TACO TUESDAY WE ON WE ACTIVE LETS GET IT!!!",
-   "views": 2,
-   "duration": 47.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/ArtsyAdorableOrangeGrammarKing-WKXkbQlrQAKYrvHO",
-   "created": 1795560016
-  },
-  {
-   "channel": "hutchmf",
-   "title": "What the hell is Hutch looking at\ud83d\ude2d",
-   "views": 2,
-   "duration": 28.0,
-   "url": "https://www.twitch.tv/hutchmf/clip/BoredCharmingBubbleteaTriHard-wNTVRF_mdrqqN6DX",
-   "created": 1795559988
+   "url": "https://www.twitch.tv/hutchmf/clip/MoldyYummyRaisinCharlietheUnicorn--ieJZPBhvUQnYZUd",
+   "created": 1795552196
   },
   {
    "channel": "hutchmf",
@@ -3411,19 +3747,35 @@
   },
   {
    "channel": "hutchmf",
+   "title": "asdsad",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/JazzyDreamyHerbsBudStar-L9brdmoWAC_a5ccP",
+   "created": 1795530863
+  },
+  {
+   "channel": "hutchmf",
+   "title": "[DROPS]TACO TUESDAY WE ON WE ACTIVE LETS GET IT!!!",
+   "views": 2,
+   "duration": 47.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/ArtsyAdorableOrangeGrammarKing-WKXkbQlrQAKYrvHO",
+   "created": 1795560016
+  },
+  {
+   "channel": "hutchmf",
+   "title": "\"What are you doing?\"",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/UnsightlyThoughtfulTapirPogChamp--gHyRzaFKvc60ECJ",
+   "created": 1795537743
+  },
+  {
+   "channel": "hutchmf",
    "title": "[DROPS]TACO TUESDAY WE ON WE ACTIVE LETS GET IT!!!",
    "views": 2,
    "duration": 30.0,
    "url": "https://www.twitch.tv/hutchmf/clip/MoldyYummyRaisinCharlietheUnicorn--ieJZPBhvUQnYZUd",
    "created": 1795552196
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight 12d84d Part 02",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/BelovedFriendlyLemurPeteZarollTie-trdhSA5T2e3kv2D5",
-   "created": 1795548298
   },
   {
    "channel": "teegrizzley",
@@ -3434,12 +3786,12 @@
    "created": 1795547984
   },
   {
-   "channel": "missmikkaa",
-   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "channel": "teegrizzley",
+   "title": "teegrizzley - Highlight 12d84d Part 02",
    "views": 2,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/PoisedSassyPenguinDatSheffy-ZO2xgwcmaGuHH6Y2",
-   "created": 1795534045
+   "url": "https://www.twitch.tv/teegrizzley/clip/BelovedFriendlyLemurPeteZarollTie-trdhSA5T2e3kv2D5",
+   "created": 1795548298
   },
   {
    "channel": "missmikkaa",
@@ -3454,72 +3806,224 @@
    "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
    "views": 2,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/DeterminedMildTardigradeKappaWealth-98jCWxXSHv-trg3S",
-   "created": 1795536220
+   "url": "https://www.twitch.tv/missmikkaa/clip/PoisedSassyPenguinDatSheffy-ZO2xgwcmaGuHH6Y2",
+   "created": 1795534045
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "gta 6",
+   "views": 2,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/DeafNimbleSwanFreakinStinkin-FZ8KhNJoLn6R_2ZC",
+   "created": 1795537313
+  },
+  {
+   "channel": "missmikkaa",
+   "title": "chat spike z=5.7",
+   "views": 2,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/PlainEncouragingRedpandaDuDudu-SL2wIQmWn7J8so9y",
+   "created": 1795554697
   },
   {
    "channel": "missmikkaa",
    "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
    "views": 2,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/PricklyTallApe4Head-b8SpiBJzGaBofhnr",
-   "created": 1795531302
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/missmikkaa/clip/CuriousLazyMeatloafCoolCat-B8rSaqa8k8x5FjUh",
+   "created": 1795554513
   },
   {
-   "channel": "missmikkaa",
-   "title": "DROPS \u2705 [PS5 PRO] GOTY? GTA 6 FINALLY!! | Best reviewed game of ALL TIME?? Insane | @MissMikkaa on Socials",
+   "channel": "agent00",
+   "title": "gg",
    "views": 2,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/PricklyTallApe4Head-b8SpiBJzGaBofhnr",
-   "created": 1795531302
+   "url": "https://www.twitch.tv/agent00/clip/AbnegateSecretiveIguanaCoolStoryBob-w2wfwgFNnsAncphD",
+   "created": 1795580162
   },
   {
-   "channel": "missmikkaa",
-   "title": "b",
+   "channel": "agent00",
+   "title": "00",
+   "views": 2,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/agent00/clip/SmilingSillyMilkUWot-0-yqQpXmWu_EmhrC",
+   "created": 1795580502
+  },
+  {
+   "channel": "agent00",
+   "title": "?",
+   "views": 2,
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/agent00/clip/RenownedScrumptiousPhoneSquadGoals-Bc7nR5Mp-UmmD6Xl",
+   "created": 1795511382
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "no one talks about that incident",
+   "views": 2,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/ObliviousCloudyPeppermintOhMyDog-4Mnn-G1BgkY9GyWC",
+   "created": 1795513077
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Joe UFO",
+   "views": 2,
+   "duration": 58.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/TawdryShortBaboonResidentSleeper-Jk7sGTwxbtE-8agD",
+   "created": 1795577251
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Joe crash out pt 1",
    "views": 2,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/missmikkaa/clip/ProudPrettiestBulgogiPhilosoraptor-4cTWAGN8c6akwg9K",
-   "created": 1795560258
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/GloriousSoftFoxCoolStoryBob-yY5GDZeZZeHU-TcE",
+   "created": 1795574091
   },
   {
-   "channel": "agent00",
-   "title": "consequences of sombody else\u2019s actions \ud83e\udd23\ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f",
+   "channel": "joe_bartolozzi",
+   "title": "Bazinga",
    "views": 2,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/agent00/clip/StrangeExquisiteKeyboardItsBoshyTime-sGDBQi0g0-SkiXQe",
-   "created": 1795523600
+   "duration": 56.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/SparklingInquisitiveRavenDerp-lKTS7u4tq3r8ePRr",
+   "created": 1795580119
   },
   {
-   "channel": "agent00",
-   "title": "opkop",
-   "views": 2,
-   "duration": 36.0,
-   "url": "https://www.twitch.tv/agent00/clip/ColdbloodedEasyCobraYouWHY-p50WCrsI_BfwpJZE",
-   "created": 1795527982
-  },
-  {
-   "channel": "agent00",
-   "title": "w",
+   "channel": "joe_bartolozzi",
+   "title": "mandy",
    "views": 2,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/agent00/clip/KitschySleepyFiddleheadsCclamChamp-hfdnKBj0QqI6iWNx",
-   "created": 1795570400
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/SeductiveFreezingCheesePrimeMe-MaX8WGgi57aVm3tx",
+   "created": 1795571489
   },
   {
-   "channel": "agent00",
-   "title": "cnmm",
+   "channel": "joe_bartolozzi",
+   "title": "Joe crash out pt 2",
    "views": 2,
-   "duration": 21.0,
-   "url": "https://www.twitch.tv/agent00/clip/TubularSparklyKoupreyBuddhaBar-jup_DNS8gqetkJCj",
-   "created": 1795525241
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/CallousSweetCatDatBoi-K_E3XMA4_IDwadQ8",
+   "created": 1795574144
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "joe baret clip 2",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/EntertainingArborealPartridgeWTRuck-8ZlmHTkItL4OTLOP",
+   "created": 1795566883
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "joe crash",
+   "views": 2,
+   "duration": 26.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/FairResoluteDolphinM4xHeh-FInh7fyd0Mcdl6L0",
+   "created": 1795576868
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Joe flips his truck pt 1",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/HeadstrongTriumphantMangetoutTriHard-71m6a5-pJ2TJLSZq",
+   "created": 1795573307
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "read your chat",
+   "views": 2,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/LivelyCalmAardvarkPeteZaroll--xZB7c7j-eY0WA1-",
+   "created": 1795584596
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "save me",
+   "views": 2,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/CarelessPolishedSardineBrainSlug-L88xjpMNmCPp3Lb3",
+   "created": 1795552183
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "as",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/NiceLivelyYakHeyGuys-bOz3iAoy5vXoOcvt",
+   "created": 1795553314
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "as",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/ExpensiveIgnorantPotSeemsGood-A719eIcvLkV76O3t",
+   "created": 1795553361
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Joe flips his truck pt 2",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/TransparentSingleChickenLeeroyJenkins-_uN3PC1DZHPP4Zat",
+   "created": 1795573359
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "bro does not care",
+   "views": 2,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/HeartlessSarcasticShrewAllenHuhu-IePRVhckivTkJgsC",
+   "created": 1795547016
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "joe moaning",
+   "views": 2,
+   "duration": 6.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/DelightfulOriginalMushroomWoofer-ohBy-kiDZV5lcLR6",
+   "created": 1795553772
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "Joe crash out pt 1",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/GloriousSoftFoxCoolStoryBob-yY5GDZeZZeHU-TcE",
+   "created": 1795574091
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "fi",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/GenerousRealManateeTriHard-mbYQvCN82euiEpp_",
+   "created": 1795553267
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "as",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/BashfulMushyAubergineOptimizePrime-3uicrwl8Z7Qa3pxV",
+   "created": 1795576084
+  },
+  {
+   "channel": "joe_bartolozzi",
+   "title": "mandy",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/joe_bartolozzi/clip/SeductiveFreezingCheesePrimeMe-MaX8WGgi57aVm3tx",
+   "created": 1795571489
   },
   {
    "channel": "clix",
-   "title": "\u2026.",
+   "title": "i ex",
    "views": 2,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/DeliciousCulturedGullKappaClaus-Qg5MfXhQOBmZ5h1W",
-   "created": 1795538543
+   "url": "https://www.twitch.tv/clix/clip/TenaciousCrunchyAubergineUWot-aGEj0XilY9yGaKQW",
+   "created": 1795522530
   },
   {
    "channel": "clix",
@@ -3528,6 +4032,14 @@
    "duration": 25.0,
    "url": "https://www.twitch.tv/clix/clip/TiredAssiduousButterflyChefFrank-UshG6h_JJ-7-9gx9",
    "created": 1795536406
+  },
+  {
+   "channel": "clix",
+   "title": "\u2026.",
+   "views": 2,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/clix/clip/DeliciousCulturedGullKappaClaus-Qg5MfXhQOBmZ5h1W",
+   "created": 1795538543
   },
   {
    "channel": "clix",
@@ -3546,44 +4058,20 @@
    "created": 1795537233
   },
   {
-   "channel": "clix",
-   "title": "i ex",
-   "views": 2,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/TenaciousCrunchyAubergineUWot-aGEj0XilY9yGaKQW",
-   "created": 1795522530
-  },
-  {
    "channel": "timthetatman",
-   "title": "5k",
+   "title": "DROPS - GRINDING",
    "views": 2,
-   "duration": 35.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/BitterGeniusOctopusAsianGlow-tw4RftbisdWwb0xz",
-   "created": 1795556284
+   "duration": 45.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/AwkwardCoweringRadishDoggo-gWXSctShrNWvdT9L",
+   "created": 1795538519
   },
   {
    "channel": "timthetatman",
    "title": "DROPS - GRINDING",
    "views": 2,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/BelovedGorgeousNikudonBIRB-iH6pm00rL-aJgRwy",
-   "created": 1795551652
-  },
-  {
-   "channel": "timthetatman",
-   "title": "DROPS - GRINDING",
-   "views": 2,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/FancyAgreeableRingSmoocherZ-t4aSoSQV0Xe6qSbd",
-   "created": 1795551052
-  },
-  {
-   "channel": "timthetatman",
-   "title": "DROPS - GRINDING",
-   "views": 2,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/FancyAgreeableRingSmoocherZ-t4aSoSQV0Xe6qSbd",
-   "created": 1795551052
+   "duration": 50.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/ShakingFunnyHyenaChocolateRain-ts7UxZ7juaaiX7Xe",
+   "created": 1795541514
   },
   {
    "channel": "timthetatman",
@@ -3597,129 +4085,89 @@
    "channel": "timthetatman",
    "title": "DROPS - GRINDING",
    "views": 2,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/BelovedGorgeousNikudonBIRB-iH6pm00rL-aJgRwy",
+   "created": 1795551652
+  },
+  {
+   "channel": "timthetatman",
+   "title": "DROPS - GRINDING",
+   "views": 2,
+   "duration": 50.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/ShakingFunnyHyenaChocolateRain-ts7UxZ7juaaiX7Xe",
+   "created": 1795541514
+  },
+  {
+   "channel": "timthetatman",
+   "title": "5k",
+   "views": 2,
+   "duration": 35.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/BitterGeniusOctopusAsianGlow-tw4RftbisdWwb0xz",
+   "created": 1795556284
+  },
+  {
+   "channel": "hutchmf",
+   "title": "Jason Has no personality",
+   "views": 1,
+   "duration": 54.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/WanderingOptimisticClintTBTacoLeft-yB2JNXx1E6iJtSz6",
+   "created": 1795531341
+  },
+  {
+   "channel": "hutchmf",
+   "title": "TACO TUESDAY WE ON WE ACTIVE LETS GET IT!!!",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/BoxyLitigiousLaptopVoteYea-M7452Qg4ibrY8sdX",
+   "created": 1795531672
+  },
+  {
+   "channel": "hutchmf",
+   "title": "[DROPS]TACO TUESDAY WE ON WE ACTIVE LETS GET IT!!!",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/RespectfulSweetWheelNinjaGrumpy-TK1J9SORGgCxFvsx",
+   "created": 1795536266
+  },
+  {
+   "channel": "hutchmf",
+   "title": "[DROPS]TACO TUESDAY WE ON WE ACTIVE LETS GET IT!!!",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/hutchmf/clip/TenderMushyJuiceTooSpicy-pj8ucBjZ-LOswMx4",
+   "created": 1795534165
+  },
+  {
+   "channel": "teegrizzley",
+   "title": "teegrizzley - Highlight 13a62f Part 01",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/teegrizzley/clip/SucculentMoldyRedpandaUWot-QOaCZum9i6AJkQ8l",
+   "created": 1795547213
+  },
+  {
+   "channel": "teegrizzley",
+   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
+   "views": 1,
    "duration": 45.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/AwkwardCoweringRadishDoggo-gWXSctShrNWvdT9L",
-   "created": 1795538519
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/ThirstyTalentedCatMcaT-LoIqJJF06RCLFSJS",
-   "created": 1795556558
+   "url": "https://www.twitch.tv/teegrizzley/clip/DiligentInexpensiveSowTF2John-lvqrJ_iIOrpWi48M",
+   "created": 1795556569
   },
   {
    "channel": "teegrizzley",
    "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/SpineyTallAlpacaAMPTropPunch-24ZtoHFCgAUcVQsQ",
-   "created": 1795556596
+   "url": "https://www.twitch.tv/teegrizzley/clip/SucculentHealthyTurtlePipeHype-Fe-hZU08KuVN4jI4",
+   "created": 1795548922
   },
   {
    "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight f4ff99 Part 01",
+   "title": "teegrizzley - Highlight f4ff99 Part 02",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/FlaccidColdDeerPupper-E2BxAHJwsbmzHmGm",
-   "created": 1795548008
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight a45a99 Part 04",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/HappyStrangeMallardShadyLulu-c9JuJOPkU-okqvrz",
-   "created": 1795548573
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight a45a99 Part 02",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/PrettiestKathishGrouseBudBlast-YD1DlVRujQSuNF00",
-   "created": 1795548468
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/DreamyCalmPotSpicyBoy-9v89JDuwqWJ44bkn",
-   "created": 1795547379
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight 12d84d Part 01",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/ExpensiveBillowingJayChefFrank-ARwKXjEOA40VJcaI",
-   "created": 1795548278
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/HonestDifferentMochaBudBlast-ZygpxDgA41QnxyTb",
-   "created": 1795547477
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight 534e65 Part 02",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/FlirtyShortPeppermintRickroll-eYJeyq5sjiny93LY",
-   "created": 1795547628
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight 528b6b Part 02",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/OriginalBloodyButterDancingBaby-6uPUc72VVBhBmIlK",
-   "created": 1795547538
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/VainTalentedKittenANELE--UGFiHqjQEt66UHL",
-   "created": 1795547574
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/ProductiveObeseSalsifyTheThing-6IfujZ95mMXCdqzD",
-   "created": 1795547666
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/GorgeousThoughtfulCrowTwitchRaid-ZRzltakHNFb02QZB",
-   "created": 1795548086
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight f4ff99 Part 03",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/BillowingDaintyPicklesStinkyCheese-XPsyPTX2AiBqleql",
-   "created": 1795548103
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight 12d84d Part 01",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/ExpensiveBillowingJayChefFrank-ARwKXjEOA40VJcaI",
-   "created": 1795548278
+   "url": "https://www.twitch.tv/teegrizzley/clip/SpeedySaltyCrocodileBigBrother-TJPriKhBWWWeAIyD",
+   "created": 1795548058
   },
   {
    "channel": "teegrizzley",
@@ -3738,212 +4186,156 @@
    "created": 1795548549
   },
   {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 45.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/PunchyCarefulIcecreamM4xHeh-vVPQFzxN5re7yxPs",
-   "created": 1795548055
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight f4ff99 Part 04",
+   "channel": "clix",
+   "title": "87",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/ObeseBoringBasenjiOptimizePrime-FCz0rn4hhjrVrT_W",
-   "created": 1795548153
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/AverageUnusualPizzaDerp-R4noESU2YqIMvqrg",
-   "created": 1795548094
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/SmoggySmoothBeefTBTacoLeft-jLKYdb6l60e-Fbip",
-   "created": 1795548116
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight f4ff99 Part 01",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/FlaccidColdDeerPupper-E2BxAHJwsbmzHmGm",
-   "created": 1795548008
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/EmpathicFuriousWhaleFunRun-M8UTrLkuA-0xH92T",
-   "created": 1795546939
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "teegrizzley - Highlight b45072 Part 03",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/TriangularImpossibleEagleTooSpicy-IkodTl9f7Ro7OOwg",
-   "created": 1795546973
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/ThirstyTalentedCatMcaT-LoIqJJF06RCLFSJS",
-   "created": 1795556558
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/RoundFamousApeMoreCowbell-5HKpW7Z6PKm1k0AK",
-   "created": 1795556616
-  },
-  {
-   "channel": "teegrizzley",
-   "title": "BACK ON 6!!!!! | !dae | GTA 6 & Iconic RP",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/teegrizzley/clip/SucculentHealthyTurtlePipeHype-Fe-hZU08KuVN4jI4",
-   "created": 1795548922
-  },
-  {
-   "channel": "agent00",
-   "title": "00",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/agent00/clip/SmilingSillyMilkUWot-0-yqQpXmWu_EmhrC",
-   "created": 1795580502
-  },
-  {
-   "channel": "agent00",
-   "title": "gg",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/agent00/clip/AbnegateSecretiveIguanaCoolStoryBob-w2wfwgFNnsAncphD",
-   "created": 1795580162
-  },
-  {
-   "channel": "agent00",
-   "title": "nahhh",
-   "views": 1,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/agent00/clip/AttractiveMildTurtleFeelsBadMan-usG4bQwVsHqxrwug",
-   "created": 1795506672
-  },
-  {
-   "channel": "agent00",
-   "title": "?",
-   "views": 1,
-   "duration": 5.0,
-   "url": "https://www.twitch.tv/agent00/clip/RenownedScrumptiousPhoneSquadGoals-Bc7nR5Mp-UmmD6Xl",
-   "created": 1795511382
-  },
-  {
-   "channel": "agent00",
-   "title": "agent gta 6 finale",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/agent00/clip/BlatantSuperOysterBIRB-ETPwI6zUzzCwuQ1H",
-   "created": 1795519825
+   "url": "https://www.twitch.tv/clix/clip/TsundereDiligentCocoaTF2John-mMxMhdYtr_wJ_zzI",
+   "created": 1795562258
   },
   {
    "channel": "clix",
-   "title": "huy ,",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/clix/clip/NurturingVenomousDootPlanking-fW0E9C84JxMIOk7G",
-   "created": 1795524844
-  },
-  {
-   "channel": "clix",
-   "title": "hikaruuu",
-   "views": 1,
-   "duration": 25.0,
-   "url": "https://www.twitch.tv/clix/clip/BlindingMushyMooseArsonNoSexy-T6VGaAaFfXntdoYY",
-   "created": 1795526312
-  },
-  {
-   "channel": "clix",
-   "title": "KB bk",
+   "title": "gta",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/SassyEvilLatteSuperVinlin-cSIxr_UI2JJrfBRR",
-   "created": 1795523706
+   "url": "https://www.twitch.tv/clix/clip/EsteemedRepleteMuleTheTarFu-b7VG2R_d86agTcvy",
+   "created": 1795540047
   },
   {
    "channel": "clix",
-   "title": "f do",
-   "views": 1,
-   "duration": 58.0,
-   "url": "https://www.twitch.tv/clix/clip/CrackySpotlessTurtleArsonNoSexy-IeOBVuZnItRNdn_A",
-   "created": 1795523857
-  },
-  {
-   "channel": "clix",
-   "title": "KB Bo",
+   "title": "train win",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/ChillyAbrasiveSquidOpieOP-03QQDWyLOPW1qHsz",
-   "created": 1795523380
+   "url": "https://www.twitch.tv/clix/clip/PoorSlipperyAubergineStoneLightning-Nu2p0tBRZLITdDBI",
+   "created": 1795538254
   },
   {
    "channel": "clix",
-   "title": "adsf",
-   "views": 1,
-   "duration": 55.0,
-   "url": "https://www.twitch.tv/clix/clip/HumbleDarkNigiriWow-MRDyesNJhwtZkkh0",
-   "created": 1795585491
-  },
-  {
-   "channel": "clix",
-   "title": "adf",
+   "title": "nick",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/TsundereStrongBulgogiPJSalt-KCCokDftDnUSAgzn",
-   "created": 1795585561
+   "url": "https://www.twitch.tv/clix/clip/SaltyVastBeefCclamChamp-EVLx1n7PkWWS7_JX",
+   "created": 1795540227
   },
   {
    "channel": "clix",
-   "title": "adsf",
+   "title": "C in",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/clix/clip/DifficultFriendlyCobraPermaSmug-4j3lpMHsTOevSlpJ",
+   "created": 1795522997
+  },
+  {
+   "channel": "clix",
+   "title": "kk no",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/clix/clip/ImpossibleSeductiveWrenResidentSleeper-iw02yRtm2Q1KG2jj",
+   "created": 1795523506
+  },
+  {
+   "channel": "clix",
+   "title": "hm kk",
    "views": 1,
    "duration": 53.0,
-   "url": "https://www.twitch.tv/clix/clip/CredulousBetterBunnyHeyGirl-BpX72OVsBOrg-0vB",
-   "created": 1795585615
+   "url": "https://www.twitch.tv/clix/clip/YummyNastyKaleOneHand-p2JlkGVcf_sWXlkl",
+   "created": 1795522787
   },
   {
    "channel": "clix",
-   "title": "asdf",
+   "title": "J JP",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/FamousStormyStarBrokeBack-xvkrXBDHQW5n-pDm",
-   "created": 1795585769
+   "url": "https://www.twitch.tv/clix/clip/AwkwardEagerRuffSuperVinlin-theAO7nnTajLnrBH",
+   "created": 1795523283
   },
   {
    "channel": "clix",
-   "title": "asd",
+   "title": "bxjx",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/ModernRefinedFerretAsianGlow-DX_jefFkngaD1pNw",
-   "created": 1795585682
+   "url": "https://www.twitch.tv/clix/clip/UnusualSmoggyAntelopeShazBotstix-cl0E10rG4AmuM0gk",
+   "created": 1795522636
   },
   {
    "channel": "clix",
-   "title": "adf",
+   "title": "l",
+   "views": 1,
+   "duration": 38.0,
+   "url": "https://www.twitch.tv/clix/clip/CuriousEndearingHummingbirdPunchTrees-LhGOX40WKpZxWM3E",
+   "created": 1795533359
+  },
+  {
+   "channel": "clix",
+   "title": "killing clix in tournament",
+   "views": 1,
+   "duration": 12.0,
+   "url": "https://www.twitch.tv/clix/clip/RacyBlushingSkirretBIRB-hOLUrGKlOvCFDdLO",
+   "created": 1795534924
+  },
+  {
+   "channel": "clix",
+   "title": "gta",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/ClearAwkwardLadiesOSkomodo-U4YaT-NVy8VfKfYn",
-   "created": 1795585199
+   "url": "https://www.twitch.tv/clix/clip/EsteemedRepleteMuleTheTarFu-b7VG2R_d86agTcvy",
+   "created": 1795540047
+  },
+  {
+   "channel": "clix",
+   "title": "nick",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/clix/clip/SuaveSecretiveAmazonOSkomodo-QQkqTUeQuGQQz7S1",
+   "created": 1795540292
+  },
+  {
+   "channel": "clix",
+   "title": "nick",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/clix/clip/SaltyVastBeefCclamChamp-EVLx1n7PkWWS7_JX",
+   "created": 1795540227
+  },
+  {
+   "channel": "clix",
+   "title": "train win",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/clix/clip/PoorSlipperyAubergineStoneLightning-Nu2p0tBRZLITdDBI",
+   "created": 1795538254
+  },
+  {
+   "channel": "clix",
+   "title": "\u2026",
+   "views": 1,
+   "duration": 31.0,
+   "url": "https://www.twitch.tv/clix/clip/HandsomeFrailPonyPJSalt-IlXgMsw9mxKiGpf9",
+   "created": 1795538633
+  },
+  {
+   "channel": "clix",
+   "title": "move like pac",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/clix/clip/FancyYawningLousePeanutButterJellyTime-0ua_vSCw9s8AvKer",
+   "created": 1795537765
+  },
+  {
+   "channel": "clix",
+   "title": "generation style",
+   "views": 1,
+   "duration": 55.0,
+   "url": "https://www.twitch.tv/clix/clip/NiceCoweringVultureTF2John-m8G_mP1Vm_xDkr8n",
+   "created": 1795537431
+  },
+  {
+   "channel": "clix",
+   "title": "h",
+   "views": 1,
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/clix/clip/TameFaintDragonMingLee-ps4hpowl5bVntH_G",
+   "created": 1795548954
   },
   {
    "channel": "clix",
@@ -3955,22 +4347,6 @@
   },
   {
    "channel": "clix",
-   "title": "\ud83d\udc80",
-   "views": 1,
-   "duration": 58.0,
-   "url": "https://www.twitch.tv/clix/clip/ObservantPerfectDillEleGiggle-YxWFSr814_PhaKhE",
-   "created": 1795561402
-  },
-  {
-   "channel": "clix",
-   "title": "gerfwgrgregregre",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/PopularBrightPoultryCoolStoryBob-74umNcnM3Kdv8aXD",
-   "created": 1795564012
-  },
-  {
-   "channel": "clix",
    "title": "clix veno coach train",
    "views": 1,
    "duration": 30.0,
@@ -3979,27 +4355,11 @@
   },
   {
    "channel": "clix",
-   "title": "asdf",
+   "title": "dwe",
    "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/AverageCrypticCockroachFutureMan-eH2fdfn0rTr0KWBP",
-   "created": 1795585012
-  },
-  {
-   "channel": "clix",
-   "title": "asdf",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/TsundereShinyClipsmomTBCheesePull-KkLfwVRph8YaF29S",
-   "created": 1795585120
-  },
-  {
-   "channel": "clix",
-   "title": "asdf",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/ArbitraryRelentlessDonkeyGingerPower-vB0oiJpir4YWnmTj",
-   "created": 1795583654
+   "duration": 35.0,
+   "url": "https://www.twitch.tv/clix/clip/ExuberantDrabSnakeHotPokket-ROcMvf_lDH5qkip0",
+   "created": 1795556445
   },
   {
    "channel": "clix",
@@ -4019,11 +4379,11 @@
   },
   {
    "channel": "clix",
-   "title": "adf",
+   "title": "asdf",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/CooperativeGorgeousChamoisLitty-Q_X17dbzU8VGmCqR",
-   "created": 1795584607
+   "url": "https://www.twitch.tv/clix/clip/ArbitraryRelentlessDonkeyGingerPower-vB0oiJpir4YWnmTj",
+   "created": 1795583654
   },
   {
    "channel": "clix",
@@ -4035,155 +4395,155 @@
   },
   {
    "channel": "clix",
-   "title": "nick",
+   "title": "sd",
    "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/SuaveSecretiveAmazonOSkomodo-QQkqTUeQuGQQz7S1",
-   "created": 1795540292
+   "duration": 43.0,
+   "url": "https://www.twitch.tv/clix/clip/BashfulPuzzledWoodcockYouWHY-kM1tviz5FgIQz70g",
+   "created": 1795584878
   },
   {
    "channel": "clix",
-   "title": "gta",
+   "title": "trainwrecks",
    "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/EsteemedRepleteMuleTheTarFu-b7VG2R_d86agTcvy",
-   "created": 1795540047
-  },
-  {
-   "channel": "clix",
-   "title": "dwe",
-   "views": 1,
-   "duration": 35.0,
-   "url": "https://www.twitch.tv/clix/clip/ExuberantDrabSnakeHotPokket-ROcMvf_lDH5qkip0",
-   "created": 1795556445
-  },
-  {
-   "channel": "clix",
-   "title": "asdf",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/PreciousCreativeTermiteDoubleRainbow-PkLpYTnGtYe72_vM",
-   "created": 1795584459
-  },
-  {
-   "channel": "timthetatman",
-   "title": "DROPS - GRINDING",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/HedonisticHorribleBibimbapEleGiggle-nMRTHokKDWcFzg82",
-   "created": 1795563058
-  },
-  {
-   "channel": "timthetatman",
-   "title": "DROPS - GRINDING",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/WiseHelplessTriangleNotLikeThis-l9MgtECLb2sZFjl6",
-   "created": 1795564530
-  },
-  {
-   "channel": "timthetatman",
-   "title": "DROPS - GRINDING",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/WanderingHorribleDootTwitchRaid-TW990as-m_pG573N",
-   "created": 1795566641
-  },
-  {
-   "channel": "timthetatman",
-   "title": "HOW SING LUL",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/SavoryAbrasiveSwanTF2John-LmG6dhtYVHknZc77",
-   "created": 1795566859
-  },
-  {
-   "channel": "timthetatman",
-   "title": "DROPS - GRINDING",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/FrigidClumsyInternDendiFace-moO7Zp9Yn3TVhBbs",
-   "created": 1795565153
+   "duration": 59.0,
+   "url": "https://www.twitch.tv/clix/clip/SnappyCrispyEggPicoMause-p8W7xeBKbzpMA60G",
+   "created": 1795581559
   },
   {
    "channel": "timthetatman",
    "title": "DROPS - GRINDING",
    "views": 1,
    "duration": 45.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/EncouragingTacitFoxYee-t3KeFxnmcguw1W_d",
-   "created": 1795565243
-  },
-  {
-   "channel": "timthetatman",
-   "title": "DROPS - GRINDING",
-   "views": 1,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/TalentedFineLadiesBudBlast-AnzYt89FLcs8y1gw",
-   "created": 1795565747
-  },
-  {
-   "channel": "timthetatman",
-   "title": "TimTheTatman: Viewer signal: +603 viewers (+11.4%)",
-   "views": 1,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/ShortAbnegateWrenchCclamChamp-UnQbZL1E5f6ffpOR",
-   "created": 1795569713
+   "url": "https://www.twitch.tv/timthetatman/clip/HandsomeBlitheNarwhalOptimizePrime-jswsi38dbbPUBwn0",
+   "created": 1795544941
   },
   {
    "channel": "timthetatman",
    "title": "DROPS - GRINDING",
    "views": 1,
    "duration": 45.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/BelovedDiligentOctopusEleGiggle-xCsaFe59RpOBtnIN",
-   "created": 1795569337
+   "url": "https://www.twitch.tv/timthetatman/clip/BlatantCrowdedGullMoreCowbell-w7KLdM6GflUGYgJ3",
+   "created": 1795543964
   },
   {
    "channel": "timthetatman",
    "title": "DROPS - GRINDING",
    "views": 1,
-   "duration": 57.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/FantasticEvilGuanacoDancingBanana-rQM4j-jeTDUiNIui",
-   "created": 1795570939
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/InexpensivePrettiestMacaroniKlappa-mKiTdOvIQi4q3aFF",
+   "created": 1795544114
   },
   {
    "channel": "timthetatman",
-   "title": "TimTheTatman: Viewer signal: +813 viewers (+13.9%)",
+   "title": "DROPS - GRINDING",
+   "views": 1,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/ProudDeliciousWoodpeckerVoteNay-nUwzeJirD2O1kstR",
+   "created": 1795544714
+  },
+  {
+   "channel": "timthetatman",
+   "title": "DROPS - GRINDING",
+   "views": 1,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/BlushingFlaccidNuggetsBrokeBack-1E_soJjgMNNpTHen",
+   "created": 1795542910
+  },
+  {
+   "channel": "timthetatman",
+   "title": "DROPS - GRINDING",
+   "views": 1,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/ImportantLongTroutBCWarrior-aXE7yR6XAyZuTlci",
+   "created": 1795543814
+  },
+  {
+   "channel": "timthetatman",
+   "title": "DROPS - GRINDING",
+   "views": 1,
+   "duration": 45.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/FamousFunnyHorseradishPastaThat-97wAdCjZTK3U8d15",
+   "created": 1795544392
+  },
+  {
+   "channel": "timthetatman",
+   "title": "DROPS - GRINDING",
+   "views": 1,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/GenerousTrustworthySwordKappaWealth-p5XF9aI7rQpb1_x7",
+   "created": 1795545020
+  },
+  {
+   "channel": "timthetatman",
+   "title": "DROPS - GRINDING",
+   "views": 1,
+   "duration": 40.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/IntelligentBoredFalconKappaPride-TxkTkh_JTrwqbk6S",
+   "created": 1795539153
+  },
+  {
+   "channel": "timthetatman",
+   "title": "DROPS - GRINDING",
+   "views": 1,
+   "duration": 44.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/BadRelatedHerdPanicBasket-qeyp2KENyS7A7gAS",
+   "created": 1795546624
+  },
+  {
+   "channel": "timthetatman",
+   "title": "DROPS - GRINDING",
+   "views": 1,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/NastyTransparentIcecreamKreygasm-1o48R8jr3laYQ8Mq",
+   "created": 1795546817
+  },
+  {
+   "channel": "timthetatman",
+   "title": "happy wife",
    "views": 1,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/ShinyFrozenMeatloafNotLikeThis-63rc6kfJ4zWrNZek",
-   "created": 1795563222
+   "url": "https://www.twitch.tv/timthetatman/clip/EncouragingCleverWrenBatChest-FABteITNpgkrjmp1",
+   "created": 1795546914
   },
   {
    "channel": "timthetatman",
    "title": "DROPS - GRINDING",
    "views": 1,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/DeterminedSpinelessPorpoiseWOOP-DEOLTvBjuXiEx_fp",
-   "created": 1795564854
+   "url": "https://www.twitch.tv/timthetatman/clip/OutstandingSilkySmoothieSaltBae-pHe8Hx9Ydjis63NM",
+   "created": 1795564231
   },
   {
    "channel": "timthetatman",
-   "title": "g",
+   "title": "TimTheTatman: Viewer signal: +753 viewers (+12.5%)",
    "views": 1,
-   "duration": 11.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/DrabBreakableAlligatorGivePLZ-DQGzA8-HLtK-Cc6Y",
-   "created": 1795564916
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/GrotesqueStylishKittenFreakinStinkin-wAX_70cUEb9-W1Gl",
+   "created": 1795564295
+  },
+  {
+   "channel": "timthetatman",
+   "title": "TimTheTatman: Viewer signal: +584 viewers (+11.0%)",
+   "views": 1,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/timthetatman/clip/ScrumptiousMoralGarbageStoneLightning-eaSo5XJExasvKxrA",
+   "created": 1795567658
   },
   {
    "channel": "timthetatman",
    "title": "DROPS - GRINDING",
    "views": 1,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/ZanyRudeTurtleTheThing-DPvmymqINtKEvvZz",
-   "created": 1795563658
+   "url": "https://www.twitch.tv/timthetatman/clip/ResoluteConsiderateJayKappa-DcLnWO8gw_Mwcjt_",
+   "created": 1795567556
   },
   {
    "channel": "timthetatman",
-   "title": "ayooo",
+   "title": "DROPS - GRINDING",
    "views": 1,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/timthetatman/clip/InexpensiveEnjoyableAnacondaPeoplesChamp-25sHOybC5yoQcWb-",
-   "created": 1795563431
+   "url": "https://www.twitch.tv/timthetatman/clip/AbrasiveYawningRhinocerosRlyTho-hcr6IAj8BalRVymT",
+   "created": 1795568157
   }
  ]
 }
